@@ -1,69 +1,21 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:'Segoe UI',sans-serif;
-}
-
-body{
-    background:#eef2f7;
-    padding:20px;
-}
-
 .navbar{
     background:white;
-    padding:20px;
+    padding:25px;
     border-radius:20px;
     margin-bottom:30px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+.navbar h1{
+    font-size:32px;
+    margin-bottom:25px;
+    color:#0f172a;
 }
 
 .navbar a{
     text-decoration:none;
     color:#2563eb;
-    margin-right:40px;
     font-size:22px;
-    font-weight:bold;
-}
-
-h1{
-    font-size:60px;
-    margin-bottom:40px;
-    color:#0f172a;
-}
-
-.cards{
-    display:grid;
-    grid-template-columns:repeat(4,1fr);
-    gap:25px;
-    margin-bottom:40px;
-}
-
-.card{
-    background:white;
-    border-radius:25px;
-    padding:50px;
-    text-align:center;
-    box-shadow:0 10px 20px rgba(0,0,0,.08);
-}
-
-.card h2{
-    color:#2563eb;
-    font-size:70px;
-}
-
-.card p{
-    margin-top:15px;
-    font-size:28px;
-}
-
-.charts{
-    display:grid;
-    grid-template-columns:repeat(3,1fr);
-    gap:25px;
-}
-
-.chart-box{
-    background:white;
-    border-radius:25px;
-    padding:30px;
+    font-weight:600;
+    margin-right:40px;
 }
