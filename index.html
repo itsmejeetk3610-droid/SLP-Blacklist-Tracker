@@ -1,76 +1,94 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SLP Dashboard</title>
+
     <link rel="stylesheet" href="style.css">
+
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
 
-<div class="navbar">
+    <!-- Navbar -->
+    <div class="navbar">
 
-<h1>SLP - PAN INDIA BLACKLIST TRACKER</h1>
+        <h1>SLP - PAN INDIA BLACKLIST TRACKER</h1>
 
-<a href="index.html">Dashboard</a>
-<a href="search.html">Search Employee</a>
-<a href="employees.html">Employees</a>
-<a href="import.html">Import Employees</a>
-<a href="pending.html">Pending Users</a>
-<a href="users.html">Users</a>
-<a href="#">Logout</a>
+        <div class="nav-links">
 
-</div>
+            <a href="index.html">Dashboard</a>
 
+            <a href="search.html">Search Employee</a>
 
-<h1>Dashboard</h1>
+            <a href="employees.html">Employees</a>
 
-<div class="cards">
+            <a href="import.html">Import Employees</a>
 
-    <div class="card">
-        <h2>939</h2>
-        <p>Total Employees</p>
+            <a href="pending.html">Pending Users</a>
+
+            <a href="users.html">Users</a>
+
+            <a href="#">Logout</a>
+
+        </div>
+
     </div>
 
-    <div class="card">
-        <h2>375</h2>
-        <p>Blacklisted</p>
+
+    <!-- Dashboard -->
+    <h1>Dashboard</h1>
+
+    <div class="cards">
+
+        <div class="card">
+            <h2>939</h2>
+            <p>Total Employees</p>
+        </div>
+
+        <div class="card">
+            <h2>375</h2>
+            <p>Blacklisted</p>
+        </div>
+
+        <div class="card">
+            <h2>0</h2>
+            <p>Terminated</p>
+        </div>
+
+        <div class="card">
+            <h2>564</h2>
+            <p>Warned</p>
+        </div>
+
     </div>
 
-    <div class="card">
-        <h2>0</h2>
-        <p>Terminated</p>
+
+    <!-- Charts -->
+    <div class="charts">
+
+        <div class="chart-box">
+            <h2>Status Distribution</h2>
+            <canvas id="pieChart"></canvas>
+        </div>
+
+        <div class="chart-box">
+            <h2>Incident Type Analysis</h2>
+            <canvas id="barChart"></canvas>
+        </div>
+
+        <div class="chart-box">
+            <h2>Monthly Trend</h2>
+            <canvas id="lineChart"></canvas>
+        </div>
+
     </div>
 
-    <div class="card">
-        <h2>564</h2>
-        <p>Warned</p>
-    </div>
-
-</div>
-
-
-<div class="charts">
-
-    <div class="chart-box">
-        <h2>Status Distribution</h2>
-        <canvas id="pieChart"></canvas>
-    </div>
-
-    <div class="chart-box">
-        <h2>Incident Type Analysis</h2>
-        <canvas id="barChart"></canvas>
-    </div>
-
-    <div class="chart-box">
-        <h2>Monthly Trend</h2>
-        <canvas id="lineChart"></canvas>
-    </div>
-
-</div>
-
-<script src="script.js"></script>
+    <script src="script.js"></script>
 
 </body>
+
 </html>
