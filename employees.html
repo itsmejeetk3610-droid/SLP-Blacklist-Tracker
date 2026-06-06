@@ -1,24 +1,62 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Employees</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <h1>Employees</h1>
 
+<div class="filter-section">
+
+    <input type="text" placeholder="Search Name / ID / PAN /">
+
+    <select>
+        <option>All Case Types</option>
+    </select>
+
+    <select>
+        <option>All Vendors</option>
+    </select>
+
+    <select>
+        <option>All Status</option>
+    </select>
+
+    <select>
+        <option>All Locations</option>
+        <option>BDL_AMAZON</option>
+        <option>BLR_AMAZON</option>
+        <option>BLR_ZEPTO_01</option>
+        <option>BLR_ZEPTO_02</option>
+        <option>PUNE_AMAZON</option>
+        <option>CHN_AMAZON</option>
+        <option>MUM_AMAZON</option>
+    </select>
+
+    <button class="search-btn">Apply/Search</button>
+
+</div>
+
+<button class="reset-btn">Reset</button>
+
 <h2>Total Records: 965</h2>
 
-<table border="1" width="100%">
-    <tr>
-        <th>Name</th>
-        <th>Employee ID</th>
-        <th>Vendor</th>
-        <th>Location</th>
-        <th>Case Type</th>
-        <th>Status</th>
-    </tr>
+<table>
+
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Employee ID</th>
+            <th>Vendor</th>
+            <th>Location</th>
+            <th>Case Type</th>
+            <th>Status</th>
+        </tr>
+    </thead>
 
     <tbody id="employeeTable"></tbody>
 
