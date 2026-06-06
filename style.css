@@ -7,13 +7,28 @@
 
 body{
     background:#eef2f7;
-    padding:30px;
+    padding:20px;
+}
+
+.navbar{
+    background:white;
+    padding:20px;
+    border-radius:20px;
+    margin-bottom:30px;
+}
+
+.navbar a{
+    text-decoration:none;
+    color:#2563eb;
+    margin-right:40px;
+    font-size:22px;
+    font-weight:bold;
 }
 
 h1{
-    color:#0f172a;
-    margin-bottom:35px;
     font-size:60px;
+    margin-bottom:40px;
+    color:#0f172a;
 }
 
 .cards{
@@ -25,21 +40,20 @@ h1{
 
 .card{
     background:white;
-    padding:50px;
     border-radius:25px;
+    padding:50px;
     text-align:center;
-    box-shadow:0 10px 25px rgba(0,0,0,.08);
+    box-shadow:0 10px 20px rgba(0,0,0,.08);
 }
 
 .card h2{
-    font-size:70px;
     color:#2563eb;
-    margin-bottom:20px;
+    font-size:70px;
 }
 
 .card p{
-    font-size:30px;
-    color:#444;
+    margin-top:15px;
+    font-size:28px;
 }
 
 .charts{
@@ -50,36 +64,6 @@ h1{
 
 .chart-box{
     background:white;
-    padding:30px;
     border-radius:25px;
-    box-shadow:0 10px 25px rgba(0,0,0,.08);
-}
-
-.chart-box h2{
-    text-align:center;
-    margin-bottom:20px;
-}
-.employee-table{
-    width:100%;
-    border-collapse:collapse;
-    background:white;
-    border-radius:20px;
-    overflow:hidden;
-    box-shadow:0 10px 25px rgba(0,0,0,.08);
-}
-
-.employee-table th{
-    background:#2563eb;
-    color:white;
-    padding:18px;
-    text-align:left;
-}
-
-.employee-table td{
-    padding:16px;
-    border-bottom:1px solid #ddd;
-}
-
-.employee-table tr:hover{
-    background:#f5f5f5;
+    padding:30px;
 }
