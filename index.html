@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SLP Dashboard</title>
-
-    <!-- CSS File -->
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
 <h1>Dashboard</h1>
 
 <div class="cards">
@@ -36,7 +24,22 @@
 
 </div>
 
-<script src="script.js"></script>
 
-</body>
-</html>
+<div class="charts">
+
+    <div class="chart-box">
+        <h2>Status Distribution</h2>
+        <canvas id="pieChart"></canvas>
+    </div>
+
+    <div class="chart-box">
+        <h2>Incident Type Analysis</h2>
+        <canvas id="barChart"></canvas>
+    </div>
+
+    <div class="chart-box">
+        <h2>Monthly Trend</h2>
+        <canvas id="lineChart"></canvas>
+    </div>
+
+</div>
