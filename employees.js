@@ -9,16 +9,16 @@ fetch("blacklist_tracker_import_template%2012.csv")
 
         let cols = row.split(",");
 
-        if(cols.length > 5){
+        if(cols.length > 10){
 
             tableBody.innerHTML += `
             <tr>
-                <td>${cols[0]}</td>
-                <td>${cols[1]}</td>
-                <td>${cols[2]}</td>
-                <td>${cols[3]}</td>
-                <td>${cols[4]}</td>
-                <td>${cols[5]}</td>
+                <td>${cols[1]}</td>   <!-- Name -->
+                <td>${cols[2]}</td>   <!-- Employee ID -->
+                <td>${cols[3]}</td>   <!-- Vendor -->
+                <td>${cols[4]}</td>   <!-- Location -->
+                <td>${cols[8]}</td>   <!-- Case Type -->
+                <td>${cols[10]}</td>  <!-- Status -->
             </tr>
             `;
         }
