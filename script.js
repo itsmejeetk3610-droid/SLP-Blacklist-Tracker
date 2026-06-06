@@ -1,1 +1,1 @@
-console.log("SLP Tracker Loaded");
+console.log("SLP Tracker Loaded Successfully");
