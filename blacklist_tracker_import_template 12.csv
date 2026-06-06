@@ -1,0 +1,970 @@
+sr_no,associate_name,employee_id,vendor,location,pan_no,aadhaar_no,mobile_no,incident_type,incident_date,status,remarks
+1,PREMANSHU,CLS 0515,CLS,BLR_Zepto_01,,,,Splitting,2025-01-04,Warn, FOUND BEEDI 
+2,CHAITU RAM MEHER,CLS 0265,CLS,BLR_Zepto_01,,,,Splitting,2025-01-06,Warn,Caught During main entrance frisking
+3,ROHIT KUMAR,CLS 0507,CLS,BLR_Zepto_01,,,,Splitting,2025-01-06,Warn,FOUND TABOCCO
+4,MD FAYAZ,GNH 0082,GOGRA,BLR_Zepto_01,,,,Splitting,2025-01-06,Warn,FOUND TABOCCO
+5,CHAYA MANI,CLS0085,CLS,BLR_Zepto_01,,,,Splitting,2025-01-07,Warn,Caught During main entrance frisking
+6,SANDEEP PAL,SME,SME,BLR_Zepto_01,,,,Splitting,2025-01-19,Warn,FOUND TABOCCO
+7,VISHAL DEY,SUV0029,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-01-21,Warn,Caught During main entrance frisking
+8,SUMAN KUMAR,NSC 0104,NSC,BLR_Zepto_01,,,,Theft,2025-01-21,Blacklisted,FOUND PEN USED
+9,SK NAWAB SHAIKH,NSC 0088,NSC,BLR_Zepto_01,,,,Theft,2025-01-21,Blacklisted,FOUND PEN USED
+10,PAPPU BHERA,KMS0324,KMS,BLR_Zepto_01,,,,Splitting,2025-01-22,Warn,FOUND TABOCCO
+11,DILIP KUMAR,CLS 0570,CLS,BLR_Zepto_01,,,,Splitting,2025-01-22,Warn,FOUND TABOCCO
+12,ALOK KUMAR,SME0172,SME,BLR_Zepto_01,,,,Splitting,2025-01-22,Warn,Caught During main entrance frisking
+13,MAHESH V ,CLS0003,CLS,BLR_Zepto_01,,,,Splitting,2025-01-22,Warn,Caught During main entrance frisking
+14,CHANDAN KUMAR,NSC0050,NSC,BLR_Zepto_01,,,,Splitting,2025-01-23,Warn,Caught During main entrance frisking
+15,DIPAK KUMAR ,SUV0274,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-01-23,Warn,Caught During main entrance frisking
+16,SHARWAN KUMAR ,NSC 0049,NSC,BLR_Zepto_01,,,,Splitting,2025-01-23,Warn,FOUND TABOCCO
+17,RITU RAJ ,CLS0248,CLS,BLR_Zepto_01,,,,Splitting,2025-01-25,Warn,FOUND TABOCCO
+18,PAPPU BHERA,KMS0324,KMS,BLR_Zepto_01,,,,Splitting,2024-12-18,Warn,Caught During main entrance frisking
+19,LAL SURAJ KR,NSC0134,NSC,BLR_Zepto_01,,,,Splitting,2025-01-29,Warn,FOUND TABOCCO
+20,VICKY KUMAR,SME0087,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+21,ATISH KUMAR,SME0084,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+22,SHIVRAM KUMAR,SME0088,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+23,BANDHAN KUMAR,SME0085,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,Caught at CCTV during munching 
+24,VIKASH KUMAR,SME0086,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+25,ARUN KUMAR,SME0083,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+26,MITHUN KUMAR,GNH0037,GOGRA,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+27,ANTU PARVI,CLS0457,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+28,CHINU KUMAR,CLS0391,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,Caught at CCTV during munching 
+29,RAJESH KUMAR,NSC0083,NSC,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+30,ASHOK KR,KMS0329,KMS,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+31,BIKI KUMAR,GNH0063,GOGRA,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+32,ATISH KUMAR,SME0084,SME,BLR_Zepto_01,,,,Munching,,Blacklisted,Caught at CCTV during munching 
+33,SRI KANTHA,SUV0190,SUVIDHA,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+34,SONU JADAB,CLS0145,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+35,KARUNA,CLS0143,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING
+36,RAJASH DAS,SUV0018,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-02-06,Warn,Caught During main entrance frisking
+37,UDAY KUMAR,NSC,NSC,BLR_Zepto_01,,,,Splitting,2025-02-06,Warn,FOUND TABOCCO
+38,SUBRATA BERA,GNH 0062,GOGRA,BLR_Zepto_01,,,,Splitting,2025-02-06,Warn,FOUND TABOCCO
+39,MAHESH V,CLS0003,CLS,BLR_Zepto_01,,,,Splitting,2025-02-06,Warn,FOUND TABOCCO
+40,BINAY LOHAR,KMS0114,KMS,BLR_Zepto_01,,,,Splitting,2025-02-08,Warn,FOUND TABOCCO
+41,ADDITYA KUNDU,CLS0180,CLS,BLR_Zepto_01,,,,Splitting,2025-02-08,Warn,FOUND TABOCCO
+42,BHAGWAN KUMAR,CLS0179,CLS,BLR_Zepto_01,,,,Splitting,2025-02-08,Warn,FOUND TABOCCO
+43,VISHAL NAIK,SME0152,SME,BLR_Zepto_01,,,,Splitting,2025-02-08,Warn,FOUND TABOCCO
+44,S HUISHEN,SME0039,SME,BLR_Zepto_01,,,,Splitting,2025-02-11,Warn,CAUGHT CHEWING TOBACCO IN DOCK AREA
+45,SHAIK MAHABOOB,SUV0238,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-02-15,Warn,FOUND TABOCCO
+46,DARASHAN MAHADEV,SUV9667,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-02-13,Warn,FOUND TABOCCO
+47,MURALO D,SUV0308,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-02-14,Warn,FOUND TABOCCO
+48,GURUDAYA YADAV,NSC0009,NSC,BLR_Zepto_01,,,,Splitting,2025-02-21,Warn,FOUND TABOCCO
+49,AVHI RAM,CLS0374,CLS,BLR_Zepto_01,,,,Splitting,2025-02-26,Warn,FOUND TABOCCO
+50,PRAMAY BRIHWAR,KMS0322,KMS,BLR_Zepto_01,,,,Splitting,2025-02-25,Warn,FOUND TABOCCO
+51,NARSHIMHA,,,BLR_Zepto_01,,,,Splitting,2025-02-28,Warn,FOUND TABOCCO
+52,RAJU KM,,,BLR_Zepto_01,,,,Splitting,2025-02-28,Warn,FOUND TABOCCO
+53,UTTAM BARMAN,KMS0159,KMS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+54,MUNNA SWAIN,KMS0009,KMS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+55,SAMJITH KUMAR,KMS0368,KMS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+56,PINKU SHANKAR,CLS0347,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+57,BANTY KUMAR,CLS0185,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+58,CHANDRA SHAKHOR,CLS0280,CLS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+59,NSARODDIN,NSC0122,NSC,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+60,HUSIHAN,GNH 0179,GOGRA,BLR_Zepto_01,,,,Splitting,2025-03-03,Warn,FOUND TABOCCO
+61,CHIRANJVI KUMAR,CLS 0405,CLS,BLR_Zepto_01,,,,Splitting,2025-03-06,Warn,FOUND TABOCCO
+62,OM PRAKASH,CLS 0710,CLS,BLR_Zepto_01,,,,Splitting,2025-03-07,Warn,FOUND TABOCCO
+63,S HUISHAN,SME 0039,SME,BLR_Zepto_01,,,,Splitting,2025-03-11,Warn,FOUND TABOCCO
+64,RAMAN KUMAR,SRF 0046,SRF,BLR_Zepto_01,,,,Others,2025-03-03,Warn,FOUND SLEEPING
+65,GIRIGUD TOTOD,SRF 0074,SRF,BLR_Zepto_01,,,,Others,2025-03-14,Warn,FOUND SLEEPING
+66,SANDEEP KUMAR,SRF ,SRF,BLR_Zepto_01,,,,Others,2025-03-14,Warn,FOUND SLEEPING
+67,SATISH KUMAR,SRF,SRF,BLR_Zepto_01,,,,Others,2025-03-14,Warn,SLEEP & FIGHTING
+68,DIPANKAR MONDAL,KMS 0454,KMS,BLR_Zepto_01,,,,Splitting,2025-03-13,Warn,FOUND TABOCCO
+69,RAUSHAH KUMAR,NSC 0142,NSC,BLR_Zepto_01,,,,Others,2025-03-15,Warn,FOUND SLEEPING
+70,DILKUSH GUPTA,GNH 0035,GNH,BLR_Zepto_01,,,,Others,2025-03-15,Warn,FOUND SLEEPING
+71,VIKARAN KUMAR,GNH0069,GNH,BLR_Zepto_01,,,,Theft,2025-03-15,Blacklisted,FOUND ARTICLE
+72,MANISH YADAV,SRF,SRF,BLR_Zepto_01,,,,Others,2025-03-17,Warn,FOUND FIGHTING
+73,VIJAY KUMAR,SRF,SRF,BLR_Zepto_01,,,,Others,2025-03-17,Warn,FOUND FIGHTING
+74,YASHWANT,SRF,SRF,BLR_Zepto_01,,,,Others,2025-03-17,Warn,FOUND FIGHTING
+75,VIJAY KUMAR,SRF 33990,SRF,BLR_Zepto_01,,,,Theft,2025-03-25,Blacklisted,I Phone Theft
+76,UTTAM BATAYA,SRF 34409,SRF,BLR_Zepto_01,,,,Theft,2025-03-25,Blacklisted,I Phone Theft
+77,ASISH NAYAK,SRF 33648,SRF,BLR_Zepto_01,,,,Theft,2025-03-25,Blacklisted,I Phone Theft
+78,VINAYAK S,KMS0483,KMS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+79,OM KUMAR,KMS0184,KMS,BLR_Zepto_01,,,,Munching,,Blacklisted,MUNCHING
+80,TRIBUJA,KMS 0569,KMS,BLR_Zepto_01,,,,Splitting,2025-04-07,Warn,FOUND TABOCCO
+81,SWAPAN MONDEL,KMS 0316,KMS,BLR_Zepto_01,,,,Splitting,2025-04-07,Warn,FOUND TABOCCO
+82,AMITESH DUBBA,HBR 0069,HBR,BLR_Zepto_01,,,,Splitting,2025-04-07,Warn,FOUND TABOCCO
+83,TANVEER,GNH 0209,GNH,BLR_Zepto_01,,,,Splitting,2025-04-07,Warn,FOUND TABOCCO
+84,LUCKY,CLS 0825,CLS,BLR_Zepto_01,,,,Splitting,2025-04-07,Warn,FOUND TABOCCO
+85,SUNJIT DUNGDUNG,HBR 0076,HBR,BLR_Zepto_01,,,,Splitting,2025-04-08,Warn,FOUND TABOCCO
+86,RAMAN KUMAR P,SRF 0076,SRF,BLR_Zepto_01,,,,Others,2025-04-10,Warn,FOUND FIGHTING
+87,VINOD KUMAR,CLS 0367,CLS,BLR_Zepto_01,,,,Others,2025-04-10,Warn,FOUND FIGHTING
+88,TRIBUJA,HBR 0072,HBR,BLR_Zepto_01,,,,Splitting,2025-04-10,Warn,FOUND TABOCCO
+89,SALAM RAJAN ,SME 0048,SME,BLR_Zepto_01,,,,Splitting,2025-04-11,Warn,FOUND TABOCCO
+90,SUNSMY SING,KMS 0602,KMS,BLR_Zepto_01,,,,Splitting,2025-04-16,Warn,FOUND TABOCCO
+91,PRADEEP,SUV 0421,SUV,BLR_Zepto_01,,,,Splitting,2025-04-16,Warn,FOUND TABOCCO
+92,RABINDRANATH,KMS0553,KMS,BLR_Zepto_01,,,,Splitting,2025-04-17,Warn,FOUND TABOCCO
+93,VIJAY KUMAR,SRF,SRF,BLR_Zepto_01,,,,Others,2025-04-18,Warn,FOUND FIGHTING
+94,YASHWANT,SRF,SRF,BLR_Zepto_01,,,,Others,2025-04-18,Warn,FOUND FIGHTING
+95,LOUIS DHNWAY,KMS0262,KMS,BLR_Zepto_01,,,,Splitting,2025-05-06,Warn,FOUND TABOCCO
+96,SANDEEP,HBR0062,HBR,BLR_Zepto_01,,,,Splitting,2025-05-06,Warn,FOUND TABOCCO
+97,SAHID ANWAR,CLS0707,CLS,BLR_Zepto_01,,,,Splitting,2025-05-07,Warn,FOUND TABOCCO
+98,TOUSIN JAMAN,SUV0373,SUV,BLR_Zepto_01,,,,Splitting,2025-05-07,Warn,FOUND TABOCCO
+99,PREM BAHADUR RAI,KMS0098,KMS,BLR_Zepto_01,,,,Others,2025-05-07,Warn,FOUND FIGHTING
+100,LOUIS DHNWAY,KMS0262,KMS,BLR_Zepto_01,,,,Splitting,2025-05-10,Warn,FOUND TABOCCO
+101,SANIKA POURTY,KMS0221,KMS,BLR_Zepto_01,,,,Splitting,2025-05-10,Warn,FOUND TABOCCO
+102,AMRITH PUKHRAMBAN,SME0128,SME,BLR_Zepto_01,,,,Others,2025-05-26,Warn,PRODUCT DIMAGE
+103,KARUNA,CLS0143,CLSS,BLR_Zepto_01,,,,Munching,,Blacklisted,FOUND MUNCHING CASE
+104,SATENDRA KUMAR,SME0084,NSC,BLR_Zepto_01,,,,Splitting,,Warn,FOUND TOBBACO
+105,RAHUL KUAMR,GNH0390,GOGORRA,BLR_Zepto_01,,,,Splitting,2025-08-11,Warn,CAUGHT CHEWING TOBACCO IN DOCK AREA
+106,GOVIND KUMAR,HBR0221,HBR,BLR_Zepto_01,,,,Splitting,2025-08-12,Warn,ATTEMPTED TO BRING GUTKA INSIDE THE WAREHOUSE
+107,SANJIT KUMAR YADAV,NSC0312,NSC,BLR_Zepto_01,,,,Splitting,2025-08-13,Warn,CAUGHT TOBBACO FRISKING TIME 
+108,RUNIL SOREN,SUV0373,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-08-13,Warn,CAUGHT WITH TOBACCO AT THE TIME OF ENTRY
+109,SHAZAHAN,CLS1010,CLS,BLR_Zepto_01,,,,Splitting,2025-08-16,Warn,CAUGHT WITH TOBACCO AT THE TIME OF ENTRY
+110,OM KUMAR,KVB0106,KVB,BLR_Amazon,,,,Munching,2025-08-18,Blacklisted,Caught at CCTV during munching 
+111,BAHADUR RAI ,KVB0098,KVB,BLR_Amazon,,,,Munching,2025-08-18,Blacklisted,Caught at CCTV during munching 
+112,ATKHAR ALAM,KVB0107,KVB,BLR_Amazon,,,,Munching,2025-08-18,Blacklisted,Caught at CCTV during munching 
+113,Sonu Yadav,GNH0348,GNH,BLR_Zepto_01,,,,Splitting,2025-08-23,Warn,CAUGHT WITH TOBACCO AT THE TIME OF ENTRY
+114,SHEIK SHAJITH,KVB0184,KVB,BLR_Amazon,,,,Munching,2025-08-26,Blacklisted,Caught at CCTV during munching 
+115,OM KUMAR,KVB0106,KVB,BLR_Amazon,,,,Munching,2025-08-18,Blacklisted,Caught at CCTV during munching 
+116,BAHADUR RAI ,KVB0098,KVB,BLR_Amazon,,,,Munching,2025-08-18,Blacklisted,Caught at CCTV during munching 
+117,ATKHAR ALAM,KVB0107,KVB,BLR_Amazon,,,,Munching,2025-08-18,Blacklisted,Caught at CCTV during munching 
+118,SHEIK SHAJITH,KVB0184,KVB,BLR_Amazon,,,,Munching,2025-08-26,Blacklisted,Caught at CCTV during munching 
+119,SANJEET,GNH0332,GNH,BLR_Zepto_01,,,,Munching,2025-09-01,Blacklisted,caught on CCTV while munching during duty hours.
+120,VIVEK KUMAR,CLS1004,CLS,BLR_Zepto_01,,,,Theft,2025-09-04,Blacklisted,THEFT
+121,RAJSEN KUMAR,CLS1030,CLS,BLR_Zepto_01,,,,Theft,2025-09-04,Blacklisted,THEFT
+122,JASHWANTH NATH,CLS0989,CLS,BLR_Zepto_01,,,,Splitting,2025-09-07,Warn,Found Guthkha 
+123,SHASHIKANT KUMAR,GNH0358,GNH,BLR_Zepto_01,,,,Munching,2025-09-12,Blacklisted,caught on CCTV while munching during duty hours.
+124,KRISHNANDAN,SUV0555,SUV,BLR_Zepto_01,,,,Munching,2025-09-12,Blacklisted,caught on CCTV while munching during duty hours.
+125,SHIV SHANKAR,CLS1112,CLS,BLR_Zepto_01,,,,Munching,2025-09-12,Blacklisted,caught on CCTV while munching during duty hours.
+126,MANORANJAN SINGH,HBR0183,HBR,BLR_Zepto_01,,,,Munching,2025-09-12,Blacklisted,caught on CCTV while munching during duty hours.
+127,LAKSHMAN DAS,NSC0310,NSC,BLR_Zepto_01,,,,Splitting,2025-09-15,Warn,TOBACCO CASE
+128,RAMLAL SAW,NSC331,NSC,BLR_Zepto_01,,,,Splitting,2025-09-24,Warn,TOBACCO CASE
+129,PRADHAN NARAH,AVN0107,AVN,BLR_Amazon,,,,Splitting,2025-09-02,Warn,The guard caught hin while paterolling
+130,Abdur Raheman,HBA0057,HBR,BLR_Amazon,,,,Munching,2025-09-02,Blacklisted,Caught at CCTV during munching 
+131,Deepak Kumar,AVN0087,AVN,BLR_Amazon,,,,Munching,2025-09-04,Blacklisted,Caught at CCTV during munching 
+132,AneshKuswa,GNA0020,GNA,BLR_Amazon,,,,Munching,2025-09-04,Blacklisted,Caught at CCTV during munching 
+133,OM KUMAR,KVB0071,KVB,BLR_Amazon,,,,Munching,2025-09-06,Blacklisted,The guard caught hin while paterolling
+134,Priyanka,KVB0070,KVB,BLR_Amazon,,,,Munching,2025-09-06,Blacklisted,The guard caught hin while paterolling
+135,SONU KUMAR,KVB0059,KVB,BLR_Amazon,,,,Munching,2025-09-20,Blacklisted,The guard caught hin while paterolling
+136,MUTHAPPA SHAMBHIWAD,KVB0174,KVB,BLR_Amazon,,,,Munching,2025-09-29,Blacklisted,Caught at CCTV during munching the Chips Packets.
+137,SAURAV KUMAR PAL,HBA0136,HBR,BLR_Amazon,,,,Munching,2025-09-30,Blacklisted,Caught at CCTV during munching the Gulab jamun sweet.
+138,KESHAV KUMAR,HBA0079,HBR,BLR_Amazon,,,,Munching,2025-09-30,Blacklisted,Caught at CCTV during munching the Gulab jamun sweet.
+139,DABID MUNDA,HBA0101,HBR,BLR_Amazon,,,,Munching,2025-09-30,Blacklisted,Caught at CCTV during munching the Gulab jamun sweet.
+140,ANGOLTON,SME0148,SME,BLR_Zepto_01,,,,Munching,2025-10-02,Blacklisted,caught on CCTV while munching during duty hours.
+141,SHANWAR,GNH0400,GOGRA,BLR_Zepto_01,,,,Munching,2025-10-04,Blacklisted,caught on CCTV while munching during duty hours.
+142,SANJU KUMAR,HBA0034,HBR,BLR_Zepto_01,,,,Splitting,2025-10-07,Warn,Our security  caught tabacco in thair pockets and moughts during checking
+143,PRAVEEN KUMAR,KMS0768,KMS,BLR_Zepto_01,,,,Munching,2025-10-08,Blacklisted,caught on CCTV while munching during duty hours.
+144,MANNU KUMAR,HBR0271,HBR,BLR_Zepto_01,,,,Splitting,2025-10-10,Warn,Caught on freshking point during checking.
+145,HARI OM ,SRF0177,SRF,BLR_Zepto_01,,,,Others,2025-10-13,Warn,Without information leave.
+146,MOHAN,SRF0176,SRF,BLR_Zepto_01,,,,Others,2025-10-13,Warn,Without information leave.
+147,BHAITY PIYANG,SRF0187,SRF,BLR_Zepto_01,,,,Others,2025-10-13,Warn,Without information leave.
+148,ABHIMANYU LAMHA,NSC0365,NSC,BLR_Zepto_01,,,,Splitting,2025-10-23,Warn,Caught on freshking point during checking.
+149,BULBUL,SUV0552,SUVIDHA,BLR_Zepto_01,,,,Splitting,2025-10-27,Warn,During random checking found tabacco
+150,RAHUL KUMAR,HBA0062,HBR,BLR_Amazon,,,,Munching,2025-10-23,Blacklisted,Caught at CCTV during munching the Peanut Chikki Packets.
+151,SANJU KUMAR,HBA0034,HBR,BLR_Amazon,,,,Splitting,2025-10-07,Warn,Our security  caught tabacco in thair pockets and moughts during checking
+152,DEEPAK SOY,HBA0031,HBR,BLR_Amazon,,,,Splitting,2025-10-08,Warn,Our security  caught tabacco in thair pockets and moughts during checking
+153,RANJAN KUMAR,HBA0036,HBR,BLR_Amazon,,,,Splitting,2025-10-11,Warn,Our security  caught tabacco in thair pockets and moughts during checking
+154,TIRTHA BDR RAI,KVB0098,KVB,BLR_Amazon,,,,Splitting,2025-10-11,Warn,Our security  caught tabacco in thair pockets and moughts during checking
+155,SHIVASHANKAR,KVB0247,KVB,BLR_Amazon,,,,Splitting,2025-10-14,Warn,Our security  caught tabacco in thair pockets and moughts during checking
+156,Vanu,KVB0279,KVB,BLR_Amazon,,,,Splitting,2025-10-31,Warn,Our security caught Tabacco in their pockets and mouths during checking
+157,ROCKY HAZZPA,CLS1011,CLS,BLR_Zepto_01,,,,Munching,2025-10-31,Blacklisted,caught on security while rounding 
+158,Mayuresh Pitambre,NX00241,PSN,Mum_Amazon,,,,Others,2025-10-18,Warn,Product Damage
+159,Mohammad Bilal ,NX00206,AVANT,Mum_Amazon,,,,Others,2025-10-23,Warn,Product Damage
+160,Jay Kishan,NX00243,ATHARV,Mum_Amazon,,,,Others,2025-10-28,Warn,Product Damage
+161,Khushal Bhoye,NX00190,PSN,Mum_Amazon,,,,Munching,2025-10-11,Blacklisted,Theep
+162,Faizan Mohamd,NX00207,AVANT,Mum_Amazon,,,,Splitting,2025-10-28,Warn,Tobacco 
+163,praveen kumar,kms0768,kms,BLR_Zepto_01,,,,Splitting,2025-11-02,Warn,applogy for mistake
+164,VANITH,CLS1389,CLS,BLR_Zepto_01,,,,Splitting,2025-11-04,Warn,Found tabacco 
+165,GANESH GIRI,HBR0391,HBR,BLR_Zepto_01,,,,Splitting,2025-11-12,Warn,Found tabacco 
+166,Surendra Kumar,CLS0873,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
+167,Suraj Kumar  ,CLS1048,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
+168,Dilkhush kumar  ,CLS1005,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
+169,Sumith kumar,CLS1484,CLS,BLR_Zepto_01,,,,Splitting,2025-11-24,Warn,Found tabacco while checking 
+170,JEHRUL ISLAM,HBR0205,HBR,BLR_Zepto_01,,,,Munching,2025-11-24,Blacklisted,Found munching
+171,SANUWAS,GNH0400,GOGRA,BLR_Zepto_01,,,,Munching,2025-11-24,Blacklisted,Found munching
+172,RAMJAN ALI,GNH0394,GOGRA,BLR_Zepto_01,,,,Munching,2025-11-24,Blacklisted,Found munching
+173,SHANKAR GAUD,KMS0892,KMS,BLR_Zepto_01,,,,Splitting,2025-11-25,Warn,Found tabacco 
+174,dineshkalo,cls1191,CLS,BLR_Zepto_01,,,,Splitting,2025-11-26,Warn,found tabacco
+175,amar kumar,cls1035,cls,BLR_Zepto_01,,,,Splitting,2025-11-26,Warn,found tabaco
+176,roshan kumar,nsc0258,NSC,BLR_Zepto_01,,,,Munching,2025-11-27,Blacklisted,Found munching
+177,BIRENDRA PASWAN,SRF0188,SRF,BLR_Zepto_01,,,,Others,2025-11-23,Warn,Leave Without Information
+178,DHIRAJ DEBNATH,SRF0073,SRF,BLR_Zepto_01,,,,Others,2025-11-18,Warn,Leave Without Information
+179,arjun my,srf0084,srf,BLR_Zepto_01,,,,Others,2025-11-09,Warn,Leave Without Information
+180,kishor,srf0156,srf,BLR_Zepto_01,,,,Others,2025-11-12,Warn,Leave Without Information
+181,raman panday,,SRF,BLR_Zepto_01,,,,Others,2025-11-12,Warn,Leave Without Information
+182,rajen turi,srf0216,SRF,BLR_Zepto_01,,,,Others,2025-11-26,Warn,Leave Without Information
+183,praveen kumar,kms0768,kms,BLR_Zepto_01,,,,Munching,2025-11-29,Blacklisted,Found munching
+184,sonu kumar bhagat,kms0962,kms,BLR_Zepto_01,,,,Munching,2025-11-29,Blacklisted,Found munching
+185,ADITYA KUMAR,HBR0450,HBR,BLR_Zepto_01,,,,Splitting,2025-11-27,Warn,Found Tabacco 
+186,Amit Kumar Jha,CLS1558,CLS,BLR_Zepto_01,,,,Theft,2025-11-27,Blacklisted,Found Theft Case
+187,Arpan Munda,AVN0288,AVN,BLR_Amazon,,,,Munching,2025-11-23,Blacklisted,Caught at CCTV during munching the Chips Packets.
+188,Majakshya manjhi,HBA0319,HBR,BLR_Amazon,,,,Munching,2025-11-24,Blacklisted,Caught at CCTV during munching the Gulab jamun sweet.
+189,Madhu,AVN0112,AVN,BLR_Amazon,,,,Splitting,2025-11-10,Warn,Our security caught Tabacco in their pockets and mouths during checking
+190,Tirtha bdr Rai,KVB0098,KVB,BLR_Amazon,,,,Splitting,2025-11-10,Warn,Our security caught Tabacco in their pockets and mouths during checking
+191,Doda gouda Patil,AVN0337,AVN,BLR_Amazon,,,,Splitting,2025-11-19,Warn,Our security caught Tabacco in their pockets and mouths during checking
+192,Suraj Kumar,ACLS0063,CLSS,BLR_Amazon,,,,Splitting,2025-11-22,Warn,Our security caught Tabacco in their pockets and mouths during checking
+193,Ramchandra Majhi,KVB0444,KVB,BLR_Amazon,,,,Splitting,2025-11-22,Warn,Our security caught Tabacco in their pockets and mouths during checking
+194,MD. Ashique,GNA0080,GNA,BLR_Amazon,,,,Splitting,2025-11-23,Warn,Tabacco was being taken out of the rack while patrolling during tea time.
+195,Sanika Bodra,GNA0072,GNA,BLR_Amazon,,,,Splitting,2025-11-23,Warn,Tabacco was being taken out of the rack while patrolling during tea time.
+196,Janish Groh,GNA0018,GNA,BLR_Amazon,,,,Splitting,2025-11-27,Warn,Our security caught tobacco in Thair pockets and moughts during checking
+197,Purushottam BM.,KVB0371,KVB,BLR_Amazon,,,,Splitting,2025-11-28,Warn,Our security caught tobacco in Thair pockets and moughts during checking
+198,Dilip Saday,GNA0026,Gna,BLR_Amazon,,,,Splitting,2025-11-29,Warn,Our security caught tobacco in Thair pockets and moughts during checking
+199,Deepak Kumar,HBA0040,HBR,BLR_Amazon,,,,Splitting,2025-11-30,Warn,Our security caught tobacco in Thair pockets and moughts during checking
+200,Chandan gouda,KVB0470,KVB,BLR_Amazon,,,,Splitting,2025-11-30,Warn,Our security caught tobacco in Thair pockets and moughts during checking
+201,Asim Sanga,GNA0002,Gna,BLR_Amazon,,,,Splitting,2025-11-30,Warn,Our security caught tobacco in their pockets and moughts during checking
+202,Deepak Nahak ,kms1184,kms,BLR_Zepto_01,,,,Theft,2025-11-28,Blacklisted,Found Theft Case
+203,Mohammad Bilal ,NX00206,AVANT,Mum_Amazon,,,,Others,2025-11-21,Warn,Product Damage
+204,Ganesh Taramale ,NX00513,RN,Mum_Amazon,,,,Others,2025-11-16,Warn,Product Damage
+205,Akshay Palvi,NX00581,RN,Mum_Amazon,,,,Others,2025-11-16,Warn,Product Damage
+206,Ankush Kurabude,NX00596,RN,Mum_Amazon,,,,Others,2025-11-23,Warn,Product Damage
+207,SURAJ KUMAR,CLS1353,CLS,BLR_Zepto_01,,,,Splitting,2025-12-01,Warn,Found Tobacco
+208,P AMARJIT,SME0128,SME,BLR_Zepto_01,,,,Munching,2025-12-04,Blacklisted,Found Munching
+209,MANOJ KUMAR M,NSC0406,SME,BLR_Zepto_01,,,,Munching,2025-12-04,Blacklisted,Found Munching
+210,AMRIT,HBR0442,HBR,BLR_Zepto_01,,,,Splitting,2025-12-03,Warn,Found Tobacco
+211,SUMIT KUMAR,CLS0988,CLS,BLR_Zepto_01,,,,Splitting,2025-12-04,Warn,Found Tobacco
+212,SUMIT KUMAR,CLS0988,CLS,BLR_Zepto_01,,,,Splitting,2025-12-10,Warn,Found Tobacco
+213,BIPIN KUMAR,KMS0786,KMS,BLR_Zepto_01,,,,Munching,2025-12-11,Blacklisted,Found Munching
+214,ASFUL ISLAM,GNH0563,GOGRA,BLR_Zepto_01,,,,Splitting,2025-12-11,Warn,Found Tobacco
+215,ROUSHAN KUMAR,GNH0757,GNH,BLR_Zepto_01,,,,Munching,2025-12-18,Blacklisted,FOUND MUNCHING
+216,RADHE SHAYAM,HBR0492,HBR,BLR_Zepto_01,,,,Splitting,2025-12-18,Warn,Found Tobacco
+217,SUNIL TUDU,GNH0645,GNH,BLR_Zepto_01,,,,Splitting,2025-12-21,Warn,Found Tobacco
+218,AMIT KUMAR,DAILY BASIS,KMS,BLR_Zepto_01,,,,Munching,2025-12-22,Blacklisted,FOUND MUNCHING
+219,MD RAZA ANASARI,IRT0083,IRT,BLR_Zepto_01,,,,Splitting,2025-12-23,Warn,Found Tobacco
+220,DHIRENDRA KUMAR,NSC0252,NSC,BLR_Zepto_01,,,,Splitting,2025-12-23,Warn,Found Tobacco
+221,RIASIDUL,CLS1073,CLS,BLR_Zepto_01,,,,Splitting,2025-12-23,Warn,Found Tobacco
+222,MOHAMAD ROUSHAN,HBR003,HBR,BLR_Zepto_01,,,,Splitting,2025-12-25,Warn,Found Tobacco
+223,RANUJ PATRA,CLS1310,CLS,BLR_Zepto_01,,,,Splitting,2025-12-26,Warn,Found Tobacco
+224,ARSHAD,GNH0656,GOGRA,BLR_Zepto_01,,,,Munching,2025-12-27,Blacklisted,Found Munching
+225,SUNITA DEVI,NSC0488,NSC,BLR_Zepto_01,,,,Splitting,2025-12-28,Warn,Found Tobacco
+226,PILAT,GNH0415,GOGRA,BLR_Zepto_01,,,,Splitting,2025-12-28,Warn,Found Tobacco
+227,BIPIN KUMAR,SRF0024,SRF,BLR_Zepto_01,,,,Others,2025-12-29,Warn,Leave without information 
+228,SUMIT RAI,HBR0589,HBR,BLR_Zepto_01,,,,Splitting,2025-12-29,Warn,Found Tobacco
+229,SUNIL JOY CHAKMA,GNH0454,GOGRA,BLR_Zepto_01,,,,Splitting,2025-12-29,Warn,Found Tobacco
+230,PARSHURAM MUNDA,KMS0897,KMS,BLR_Zepto_01,,,,Munching,2025-12-29,Blacklisted,Found Munching
+231,PANKAJ PATRA,SUV0557,SUVIDHA,BLR_Zepto_01,,,,Theft,2025-12-30,Blacklisted,THEFT
+232,MADHAN N,NSC0405,NSC,BLR_Zepto_01,,,,Munching,2025-12-31,Blacklisted,Found Munching
+233,MANOJ KUMAR,NSC0406,NSC,BLR_Zepto_01,,,,Splitting,2025-12-31,Warn,Found Tobacco
+234,MANOJ KUMAR,NSC0406,NSC,BLR_Zepto_01,,,,Splitting,2025-12-31,Warn,Found Tobacco
+235,JHARUN M,GNH0655,GOGRA,BLR_Zepto_01,,,,Munching,2025-12-31,Blacklisted,Found Munching
+236,MD Aman,ACLS0193,ACLS,BLR_Amazon,,,,Munching,2025-12-24,Blacklisted,Caught at CCTV during munching kurkure.
+237,Mukesh Kumar,KMS0107,KMS,BLR_Amazon,,,,Munching,2025-12-27,Blacklisted,Caught at CCTV during munching Chocolate.
+238,Arjun Gyawali,KMS0036,Kms,BLR_Amazon,,,,Splitting,2025-12-03,Warn,Tabacco was being taken out of the rack while patrolling during tea time.
+239,G. Manikant Reddy,KVB0385,KVB,BLR_Amazon,,,,Splitting,2025-12-03,Warn,Tabacco was being taken out of the rack while patrolling during tea time.
+240,Sanatan Sahu,AVN0377,AVN,BLR_Amazon,,,,Splitting,2025-12-05,Warn,Caught During main entrance frisking
+241,Priyanshu,KVB0383,KVB,BLR_Amazon,,,,Splitting,2025-12-06,Warn,Caught During main entrance frisking
+242,Awadhesh Yadav,HBA0237,HBR,BLR_Amazon,,,,Splitting,2025-12-07,Warn,Caught During main entrance frisking
+243,Jay Kachua,KMS0028,Kms,BLR_Amazon,,,,Splitting,2025-12-11,Warn,Caught During main entrance frisking
+244,Nisar Ahamad,HBA0392,HBR,BLR_Amazon,,,,Splitting,2025-12-11,Warn,Caught during frisking at Washroom
+245,Ramnath Murmo,HBA0262,HBR,BLR_Amazon,,,,Splitting,2025-12-15,Warn,Caught during frisking at Washroom
+246,Pramod Patra,ACLS0175,CLSS,BLR_Amazon,,,,Splitting,2025-12-15,Warn,Caught During main entrance frisking
+247,Linkan Dandasena,HBA0316,HBR,BLR_Amazon,,,,Splitting,2025-12-22,Warn,Caught During main entrance frisking
+248,Krishna,AVN0390,AVN,BLR_Amazon,,,,Splitting,2025-12-24,Warn,Caught During main entrance frisking
+249,Zeeshan,AVN0422,AVN,BLR_Amazon,,,,Splitting,2025-12-24,Warn,Caught During main entrance frisking
+250,MD. Sultan,HBA0314,HBR,BLR_Amazon,,,,Splitting,2025-12-27,Warn,Caught During main entrance frisking
+251,SANJAY DARJI,KMS1046,KMS,BLR_Zepto_02,,,,Splitting,2025-12-15,Warn,Found Tobacco
+252,SIPUN KUMAR NAYAK,CLS1368,CLS,BLR_Zepto_02,,,,Splitting,2025-12-15,Warn,Found Tobacco
+253,KAHAN KUMAR SINGH,UCS0053,UCS,BLR_Zepto_02,,,,Splitting,2025-12-22,Warn,Found Tobacco
+254,HARISH,HBR0665,HBR,BLR_Zepto_02,,,,Splitting,2025-12-25,Warn,Found Tobacco
+255,GOUTHAM GOVINDA,KVB0038,KVB,BLR_Zepto_02,,,,Theft,2025-12-31,Blacklisted,Theft
+256,SITARAM VANWAD,HUMANIC,,Pune_Amazon,,,,Splitting,2025-12-19,Warn,TABACCO
+257,SANTOSH JADHAV,HUMANIC,,Pune_Amazon,,,,Splitting,2025-12-20,Warn,"GUTKHA, TABACCO"
+258,RAHUL PAWAN,HUMANIC,,Pune_Amazon,,,,Splitting,2025-12-25,Warn,"GUTKHA, TABACCO"
+259,Araman Ali,NX00909,RN,Mum_Amazon,,,,Splitting,2025-12-11,Warn,Tobacco 
+260,Rizavan ,NX00453,RN,Mum_Amazon,,,,Splitting,2025-12-17,Warn,Tobacco 
+261,Ankit Bunakr,NX00933,RN,Mum_Amazon,,,,Splitting,2025-12-21,Warn,Tobacco 
+262,Prashant Shinde,NX01301,RN,Mum_Amazon,,,,Splitting,2025-12-23,Warn,Tobacco 
+263,Pankaj Vekhande,NX00837,R.N,Mum_Amazon,,,,Splitting,2025-12-29,Warn,Tobacco 
+264,Ashutosh Nalavade,NX00331,PSN,Mum_Amazon,,,,Others,2025-12-06,Warn,Product Damage
+265,Ranjeet kumar,NX00731,RN,Mum_Amazon,,,,Others,2025-12-28,Warn,Product Damage
+266,VENKETRAAPA,HBR0529,HBR,BLR_Zepto_01,,,,Splitting,2026-01-01,Warn,Found Tobacco
+267,AMINUL ISLAM,HBR0201,HBR,BLR_Zepto_01,,,,Splitting,2026-01-03,Warn,Found Tobacco
+268,MAHAVEER PANDIT,GNH0664,GOGRA,BLR_Zepto_01,,,,Splitting,2026-01-03,Warn,Found Tobacco
+269,BABU,NSC0404,IWIT,BLR_Zepto_01,,,,Munching,2026-01-03,Blacklisted,Found Munching 
+270,SONAL KUMAR ROY,KMS0961,KMS,BLR_Zepto_01,,,,Splitting,2026-01-06,Warn,Found Tobacco
+271,PRABHU ,GNH0831,GOGRA,BLR_Zepto_01,,,,Splitting,2026-01-07,Warn,Found Tobacco
+272,DILU MAYAK,HBR0419,HBR,BLR_Zepto_01,,,,Splitting,2026-01-08,Warn,Found Tobacco
+273,TULESHAWR CHANDRA,CLS1951,CLS,BLR_Zepto_01,,,,Munching,2026-01-11,Blacklisted,Found Munching 
+274,SAIKU,HBR0402,HBR,BLR_Zepto_01,,,,Munching,2026-01-11,Blacklisted,Found Munching 
+275,THARUN,GNH0655,GOGRA,BLR_Zepto_01,,,,Munching,2026-01-11,Blacklisted,Found Munching 
+276,SUPAI HEMBRAM,KMS1508,KMS,BLR_Zepto_01,,,,Splitting,2026-01-13,Warn,Found Tobacco
+277,RAM CHANDRA TUDU,KMS1499,KMS,BLR_Zepto_01,,,,Splitting,2026-01-13,Warn,Found Tobacco
+278,MD ARMAN,RT0092,IRT,BLR_Zepto_01,,,,Splitting,2026-01-14,Warn,Found Tobacco
+279,AFTAB,IRT 0097,IRT,BLR_Zepto_01,,,,Splitting,2026-01-14,Warn,Found Tobacco
+280,MADAN RANA,CLS1717,IRT,BLR_Zepto_01,,,,Splitting,2026-01-14,Warn,Found Tobacco
+281,RAHUL ORAN,KMS0814,IRT,BLR_Zepto_01,,,,Splitting,2026-01-14,Warn,Found Tobacco
+282,         DENESH,      CLS 1191,      CLS,BLR_Zepto_01,,,,Splitting,2026-01-15,Warn,Found Tobacco
+283,SHEHRAB,IRT0061,IRT,BLR_Zepto_01,,,,Splitting,2026-01-16,Warn,Found Tobacco
+284,RAMDHAMI,IRT0104,IRT,BLR_Zepto_01,,,,Splitting,2026-01-16,Warn,Found Tobacco
+285,SHAIK KHAJAPA,KMS0035,KMS,BLR_Zepto_01,,,,Theft,2026-01-20,Blacklisted,Theft supporter
+286,ANIL IM,CLS1182,CLS,BLR_Zepto_01,,,,Theft,2026-01-20,Blacklisted,Theft
+287,RITESH BHASKAR,SUV0551,SUV,BLR_Zepto_01,,,,Splitting,2026-01-21,Warn,Found Tobacco
+288,RAHUL ORAN,KMS0814,KMS,BLR_Zepto_01,,,,Splitting,2026-01-21,Warn,Found Tobacco
+289,DULEN BHUYANG,GNH0695,GOGRA,BLR_Zepto_01,,,,Splitting,2026-01-21,Warn,Found Tobacco
+290,NIRMATA KUMAR,CLS1304,CLS,BLR_Zepto_01,,,,Splitting,2026-01-21,Warn,Found Tobacco
+291,SURAJ KUMAR,CLS0843,CLS,BLR_Zepto_01,,,,Theft,2026-01-21,Blacklisted,Theft supporter
+292,RAVI BHARTIKUMAR,CLS2026,CLS,BLR_Zepto_01,,,,Splitting,2026-01-24,Warn,Found Tobacco
+293,KANHAIYA KUMAR,NSC0244,NSC,BLR_Zepto_01,,,,Munching,2026-01-27,Blacklisted,Found Munching 
+294,ALIN GL,CLS1798,CLS,BLR_Zepto_01,,,,Munching,2026-01-27,Blacklisted,Found Munching 
+295,YASHVANT KUMAR,KVA0078,KVA,BLR_Zepto_01,,,,Munching,2026-01-27,Blacklisted,Found Munching 
+296,RAJ KUMAR,KVA0081,KVA,BLR_Zepto_01,,,,Munching,2026-01-27,Blacklisted,Found Munching 
+297,SK MOTI,SUV0544,SUV,BLR_Zepto_01,,,,Theft,2026-01-27,Blacklisted,Thefting
+298,Nandan kumar yadav,HBR0489,HBR,BLR_Zepto_01,,,,Munching,2026-01-27,Blacklisted,Found Munching 
+299,ALJO PAUL,CLS1786,CLS,BLR_Zepto_01,,,,Munching,2026-01-27,Blacklisted,Found Munching 
+300,UTTAM CHANDRA S,KMS0920,KMS,BLR_Zepto_01,,,,Splitting,2026-01-28,Warn,Found Tobacco
+301,Harshit Kumar,GNH0606,GOGRA,BLR_Zepto_01,,,,Splitting,2026-01-29,Warn,Found Tobacco
+302,BIRENDRA ,KMS1307,KMS,BLR_Zepto_01,,,,Splitting,2026-01-30,Warn,Found Tobacco
+303,MAHESH KUMAR,CLS2024,CLS,BLR_Zepto_01,,,,Splitting,2026-01-30,Warn,Found Tobacco
+304,VINAYAKA,KVB0480,KVB,BLR_Amazon,,,,Munching,2026-01-02,Blacklisted,Caught at CCTV during munching 
+305,RANENDNA,KVB0517,KVB,BLR_Amazon,,,,Munching,2026-01-02,Blacklisted,The guard caught hin while paterolling
+306,S. VINOD,HBA0457,HBA,BLR_Amazon,,,,Splitting,2026-01-27,Warn,The entrance guard caught him while checking
+307,ABHISHEK KUMAR,ACLS0229,ACLS,BLR_Amazon,,,,Splitting,2026-01-02,Warn,Our security caught tobacco in their pockets and moughts during checking
+308,VIKASH,AVN0157,AVN,BLR_Amazon,,,,Splitting,2026-01-04,Warn,Our security caught tobacco in their pockets and moughts during checking
+309,GYAN GYOTHI,AVN0231,AVN,BLR_Amazon,,,,Splitting,2026-01-04,Warn,Our security caught tobacco in their pockets and moughts during checking
+310,MOHIT,KVB0523,KVB,BLR_Amazon,,,,Splitting,2026-01-10,Warn,Our security caught tobacco in their pockets and moughts during checking
+311,ANKUSH KUMAR,ACLS0249,ACLS,BLR_Amazon,,,,Splitting,2026-01-11,Warn,Our security caught tobacco in their pockets and moughts during checking
+312,MANIKANTH,KVB0385,KVB,BLR_Amazon,,,,Splitting,2026-01-22,Warn,Our security caught tobacco in their pockets and moughts during checking
+313,RAJU .N,HBA0532,HBA,BLR_Amazon,,,,Splitting,2026-01-22,Warn,Our security caught tobacco in their pockets and moughts during checking
+314,PAPPU KUMAR,KMS0131,KMS,BLR_Amazon,,,,Splitting,2026-01-24,Warn,Our security caught tobacco in their pockets and moughts during checking
+315,MONU KUMAR,AMSE0008,AMSE,BLR_Amazon,,,,Splitting,2026-01-24,Warn,Our security caught tobacco in their pockets and moughts during checking
+316,UMESH ,ACLS0298,ACLS,BLR_Amazon,,,,Splitting,2026-01-25,Warn,Our security caught tobacco in their pockets and moughts during checking
+317,UDAY TANTI,ACLS0354,ACLS,BLR_Amazon,,,,Splitting,2026-01-25,Warn,The restroom guard was caught checking in during working hours.
+318,RAMESH TRIPURA,KMS0152,KMS,BLR_Amazon,,,,Splitting,2026-01-25,Warn,The restroom guard was caught checking in during working hours.
+319,MOHAN . N,CLSS0348,CLSS,BLR_Amazon,,,,Splitting,2026-01-25,Warn,The restroom guard was caught checking in during working hours.
+320,NIRANJAN ,AVN0212,AVN,BLR_Amazon,,,,Splitting,2026-01-28,Warn,The restroom guard was caught checking in during working hours.
+321,Ajit Kumar,ACLS0410,ACLS,BLR_Amazon,,,,Splitting,2026-01-29,Warn,The restroom guard was caught checking in during working hours.
+322,Monu Kumar,AMSE0008,AMSE,BLR_Amazon,,,,Splitting,2026-01-29,Warn,The Outbound guard was caught checking in during working hours.
+323,Deepak Kumar,HBA0529,HBA,BLR_Amazon,,,,Splitting,2026-01-29,Warn,Our security caught tobacco in their pockets and moughts during checking
+324,DEBJEET,ACLS3025,ACLS,BLR_Amazon,,,,Splitting,2026-01-31,Warn,Our security caught tobacco in their pockets and moughts during checking
+325,SENKU,HBR042,HBR,BLR_Zepto_02,,,,Munching,2026-01-11,Blacklisted,MUNCHING
+326,TARUN M,GNH0655,GOGORRA,BLR_Zepto_02,,,,Munching,2026-01-11,Blacklisted,MUNCHING
+327,ADHISHI KUMAR,CLS1056,CLS,BLR_Zepto_02,,,,Munching,2026-01-14,Blacklisted,MUNCHING
+328,MEGHA KUMAR,,,BLR_Zepto_02,,,,Munching,2026-01-14,Blacklisted,MUNCHING
+329,ABHILASH SV,,,BLR_Zepto_02,,,,Munching,2006-01-17,Blacklisted,MUNCHING
+330,SUMIT KUMAR,MSE0070,MSE,BLR_Zepto_02,,,,Munching,2006-01-17,Blacklisted,MUNCHING
+331,GIRISH KUMAR G,CLS1982,CLS,BLR_Zepto_02,,,,Munching,2006-01-17,Blacklisted,MUNCHING
+332,Nabanita Dhara,KMS1546,KMS,BLR_Zepto_02,,,,Munching,2026-01-24,Blacklisted,MUNCHING
+333,Robin Sen,CLS1438,CLS,BLR_Zepto_02,,,,Munching,2026-01-26,Blacklisted,MUNCHING
+334,Suresh,YFS0080,YFS,BLR_Zepto_02,,,,Munching,2026-01-26,Blacklisted,MUNCHING
+335,PRABHAKAR DN,KMS1062,KMS,BLR_Zepto_02,,,,Munching,2026-01-29,Blacklisted,MUNCHING
+336,PARMESHWAR ASOLE,SMP,,Pune_Amazon,,,,Splitting,2026-01-12,Warn,TABACCO
+337,SANKET SURYAWANSHI,PSN,,Pune_Amazon,,,,Splitting,2026-01-12,Warn,TABACCO
+338,NAGRAJ CHOUL,PSN,,Pune_Amazon,,,,Theft,2026-01-12,Blacklisted,THEFT CREAM BISCUT
+339,YASH DAREKAR,PSN,,Pune_Amazon,,,,Theft,2026-01-12,Blacklisted,THEFT CREAM BISCUT
+340,Aditya Dube,SMP,,Pune_Amazon,,,,Splitting,2026-01-17,Warn,TABACCO
+341,Mukta Khere,Humanque,,Pune_Amazon,,,,Splitting,2026-01-21,Warn,TABACCO
+342,Rahul Pawar,Humanque,,Pune_Amazon,,,,Splitting,2026-01-25,Warn,TABACCO
+343,PANKAJ ZHOLE,NX01516,HUM,Mum_Amazon,,,,Splitting,2026-01-09,Warn,Tobacco 
+344,PUSHPRAJ LONI,NX01423,RN,Mum_Amazon,,,,Splitting,2026-01-16,Warn,Tobacco 
+345,TOUSEN  AHMED,SUV0531,SUV,BLR_Zepto_01,,,,Theft,,Blacklisted,"POWER BANK , EAR RINGS ,DATA CABLE"
+346,NARAYAN MUNDA,KMS0777,KMS,BLR_Zepto_01,,,,Splitting,2026-02-03,Warn,FOUND TABOCCO
+347,SHATAM CHATTARI,CLS1524,CLS,BLR_Zepto_01,,,,Splitting,2026-02-03,Warn,FOUND TABOCCO
+348,MAMUDAEH,GNH0803,GNH,BLR_Zepto_01,,,,Splitting,2026-02-03,Warn,FOUND TABOCCO
+349,TULESHWAR,CLS2041,CLS,BLR_Zepto_01,,,,Splitting,2026-02-04,Warn,FOUND TABOCCO
+350,MD AMIR,IRT0028,IRT,BLR_Zepto_01,,,,Splitting,2026-02-04,Warn,FOUND TABOCCO
+351,RITAK BAHUMATRI,GNH0415,GNH,BLR_Zepto_01,,,,Splitting,2026-02-04,Warn,FOUND TABOCCO
+352,ABHISHAK,CLS1986,CLS,BLR_Zepto_01,,,,Munching,2026-02-04,Blacklisted,MUNCHING
+353,TULESHWAR,CLS2041,CLS,BLR_Zepto_01,,,,Splitting,2026-02-07,Warn,FOUND TABOCCO
+354,SUMITH KISHAN,KMS1574,KMS,BLR_Zepto_01,,,,Splitting,2026-02-09,Warn,FOUND GUTKHA
+355,MANISH KUMAR,CLS1919,CLS,BLR_Zepto_01,,,,Splitting,2026-02-15,Warn,FOUND TABOCCO
+356,ASHOK KUMAR,HBR0686,HBR,BLR_Zepto_01,,,,Splitting,2026-02-15,Warn,FOUND TABOCCO
+357,ABHINASH,CLS1299,CLS,BLR_Zepto_01,,,,Munching,2026-02-16,Blacklisted,MUNCHING
+358,MD GULJAR KHAN,HBR0688,HBR,BLR_Zepto_01,,,,Munching,2026-02-16,Blacklisted,MUNCHING
+359,TULESWAR,CLS2041,CLS,BLR_Zepto_01,,,,Munching,2026-02-16,Blacklisted,MUNCHING
+360,BABAN KUMAR,KMS1514,KMS,BLR_Zepto_01,,,,Munching,2026-02-16,Blacklisted,MUNCHING
+361,MD TANWEER,IRT0081,IRT,BLR_Zepto_01,,,,Splitting,2026-02-17,Warn,FOUND TABOCCO
+362,MD ARIF,IRT0084,IRT,BLR_Zepto_01,,,,Splitting,2026-02-17,Warn,FOUND TABOCCO
+363,AMITH KUMAR,GNH0363,GNH,BLR_Zepto_01,,,,Theft,2026-02-17,Blacklisted,Thefting
+364,KALASH,CLS2121,CLS,BLR_Zepto_01,,,,Munching,2026-02-20,Blacklisted,MUNCHING
+365,PADMA DAS,HBR0874,HBR,BLR_Zepto_01,,,,Splitting,2026-02-24,Warn,FOUND TABOCCO
+366,DHERAJ,CLS2037,CLS,BLR_Zepto_01,,,,Splitting,2026-02-24,Warn,FOUND TABOCCO
+367,ROHIT,HBR0768,HBR,BLR_Zepto_01,,,,Splitting,2026-02-24,Warn,FOUND TABOCCO
+368,U RAJU,NSC0535,NSC,BLR_Zepto_01,,,,Munching,2026-02-24,Blacklisted,MUNCHING
+369,ASHISHI,KMS1454,KMS,BLR_Zepto_01,,,,Theft,2026-02-25,Blacklisted,Thefting
+370,MD GULJAR ,HBR0688,HBR,BLR_Zepto_01,,,,Theft,2026-02-25,Blacklisted,Thefting
+371,PRAVEEN,NSC0585,NSC,BLR_Zepto_01,,,,Theft,2026-02-25,Blacklisted,Thefting
+372,IRYAN,KMS,KMS,BLR_Zepto_01,,,,Munching,2026-02-27,Blacklisted,MUNCHING
+373,KHUSID ALAM,KMS,KMS,BLR_Zepto_01,,,,Munching,2026-02-27,Blacklisted,MUNCHING
+374,SANTU,KMS,KMS,BLR_Zepto_01,,,,Munching,2026-02-27,Blacklisted,MUNCHING
+375,Ganesh Kumar,HBA0188,HBR,BLR_Amazon,,,,Theft,2026-02-03,Blacklisted,The employee committed theft of  two earbuds  
+376,MD. Furkan,HBA0357,HBR,BLR_Amazon,,,,Theft,2026-02-03,Blacklisted,The employee committed theft of one earbuds 
+377,Ashit Kumar Biswal,HBA0283,HBA,BLR_Amazon,,,,Theft,2026-02-04,Blacklisted,DUREX  [condom]
+378,Thaaisa mog,AVN0415,AVN,BLR_Amazon,,,,Theft,2026-02-05,Blacklisted,NIFE
+379,Satish Mondal,HBA0426,HBR,BLR_Amazon,,,,Theft,2026-02-25,Blacklisted,"Electronic Product, Body perfume and soap etc."
+380,Sajal Jena,AMSE0016,AMSE,BLR_Amazon,,,,Munching,2026-02-06,Blacklisted,Caught at CCTV during munching 
+381,Aamir Husain,ACLS0368,CLSS,BLR_Amazon,,,,Munching,2026-02-09,Blacklisted,The guard caught hin while paterolling
+382,Sachin Kumar,ACLS0433,CLSS,BLR_Amazon,,,,Munching,2026-02-10,Blacklisted,The entrance guard caught him while checking
+383,Sameer Bhatiya,HBA0467,HBR,BLR_Amazon,,,,Munching,2026-02-10,Blacklisted,Caught at CCTV during munching 
+384,Sanjit Kumar,HBA0577,HBR,BLR_Amazon,,,,Munching,2026-02-11,Blacklisted,The guard caught hin while paterolling
+385,Subham B.,ACLS0325,CLSS,BLR_Amazon,,,,Munching,2026-02-14,Blacklisted,The entrance guard caught him while checking
+386,Vittal,AVN0492,AVN,BLR_Amazon,,,,Munching,2026-02-14,Blacklisted,Caught at CCTV during munching 
+387,Gangaraj,HBA0546,HBR,BLR_Amazon,,,,Splitting,2026-02-04,Warn,The restroom guard was caught checking in during working hours.
+388,Gopal Pegu,KVB0542,KVB,BLR_Amazon,,,,Splitting,2026-02-07,Warn,Caught During main entrance frisking
+389,Nikhil Bauri,ACLS0074,CLSS,BLR_Amazon,,,,Splitting,2026-02-10,Warn,Our security caught tobacco in their pockets and moughts during checking
+390,Dulal Chandra,GNA0078,GNA,BLR_Amazon,,,,Splitting,2026-02-12,Warn,Caught During main entrance frisking
+391,Chhotelal Ram,ACLS0015,CLSS,BLR_Amazon,,,,Splitting,2026-02-13,Warn,The restroom guard was caught checking in during working hours.
+392,Abdul Sunad,GNA0134,GNA,BLR_Amazon,,,,Splitting,2026-02-21,Warn,Our security caught tobacco in their pockets and moughts during checking
+393,Abhijit,GNA0117,GNA,BLR_Amazon,,,,Splitting,2026-02-24,Warn,Caught During main entrance frisking
+394,Avinash,HBA0218,HBR,BLR_Amazon,,,,Splitting,2026-02-25,Warn,Our security caught tobacco in their pockets and moughts during checking
+395,Sunil Kumar,AMSE0006,AMSE,BLR_Amazon,,,,Splitting,2026-02-26,Warn,Caught During main entrance frisking
+396,SAJAN CHAUHAN,AMSE0091,AMSE,BLR_Amazon,,,,Splitting,2026-02-27,Warn,The restroom guard was caught checking in during working hours.
+397,ABHINASH,CLS1299,CLS,BLR_Zepto_02,,,,Theft,2026-02-15,Blacklisted,CIGARETTE PACKET
+398,JYOTI RANJAN,KMS1272,KMS,BLR_Zepto_02,,,,Theft,2026-02-20,Blacklisted,BOAT ROCKERZ 378 NECKBAND
+399,GANESH RAI,UCS0099,UCS,BLR_Zepto_02,,,,Theft,2026-02-06,Blacklisted,COLD DRINK- MONSTER
+400,SUSHANT REDDY,GNH0617,GOGORRA,BLR_Zepto_02,,,,Munching,2026-02-20,Blacklisted,MUNCHING
+401,SUNIL,HBR0279,HBR,BLR_Zepto_02,,,,Munching,2026-02-26,Blacklisted,MUNCHING
+402,MANJUNATH,CLS1758,CLS,BLR_Zepto_02,,,,Munching,2026-02-26,Blacklisted,MUNCHING
+403,ABHILASH SM,CLS1650,CLS,BLR_Zepto_02,,,,Munching,2026-02-26,Blacklisted,MUNCHING
+404,KRITI KUSUM,KMS1272,KMS,BLR_Zepto_02,,,,Munching,2026-02-28,Blacklisted,HEINEKEN BEER DRINK
+405,SK ALAUL,NSC0609,NSC,BLR_Zepto_02,,,,Munching,2026-02-28,Blacklisted,BUTTER
+406,VARALAKSHMI,-,ENELEVEN,BLR_Zepto_02,,,,Splitting,2026-02-28,Warn,CHOCOLET
+407,SIMON CHIKMA,KMS1246,KMS,BLR_Zepto_02,,,,Munching,2026-02-28,Blacklisted,MUNCHING
+408,BIBHISHAN KUMAR SAH,EN207,ENLIVEN,BLR_Zepto_02,,,,Munching,2026-02-28,Blacklisted,DHARWAD PEDA
+409,GOURDAGA GAIN,EN151,ENLIVEN,BLR_Zepto_02,,,,Munching,2026-02-28,Blacklisted,DHARWAD PEDA
+410,RAJIV KUMAR,CLS1326,CLS,BLR_Zepto_02,,,,Munching,2026-02-28,Blacklisted,PURE MAGIC CHOCO BISCUIT
+411,BUDHESHWAR,GNH0497,GOGORRA,BLR_Zepto_02,,,,Splitting,,Warn,FOUND TABOCCO
+412,PRADIP KUMAR,CLS0158,CLS,BLR_Zepto_02,,,,Splitting,,Warn,FOUND TABOCCO
+413,PARTHA DATTA,YSF0131,YSF,BLR_Zepto_02,,,,Splitting,,Warn,FOUND TABOCCO
+414,ABDUL ALIM,HBR0864,HBR,BLR_Zepto_02,,,,Splitting,,Warn,FOUND TABOCCO
+415,VINAY KUMAR,HBR0681,HBR,BLR_Zepto_02,,,,Splitting,,Warn,FOUND TABOCCO
+416,RAJA RONGHA,UCS0160,UCS,BLR_Zepto_02,,,,Splitting,,Warn,FOUND TABOCCO
+417,SANJAY BARMAN,YFS0161,YFS,BLR_Zepto_02,,,,Splitting,2026-02-20,Warn,FOUND TABOCCO
+418,SUSHIL TANDI,HBR0805,HBR,BLR_Zepto_02,,,,Splitting,2026-02-24,Warn,GUTKA
+419,GOPAL PAWAR,NX01788,VEGHIT,Mum_Amazon,,,,Splitting,2026-02-04,Warn,FOUND TABOCCO
+420,SANDEEP PATIL,NX01120,AVANT,Mum_Amazon,,,,Splitting,2026-02-04,Warn,FOUND TABOCCO
+421,RAHUL BHAVRI,NX01686,AVANT,Mum_Amazon,,,,Splitting,2026-02-07,Warn,FOUND TABOCCO
+422,JAYPRAKASH,NX00833,R.N,Mum_Amazon,,,,Splitting,2026-02-08,Warn,FOUND TABOCCO
+423,ASHOK KHADE,NX01261,PSN,Mum_Amazon,,,,Splitting,2026-02-08,Warn,FOUND TABOCCO
+424,TABISH  AHMAD,NX01860,PSN,Mum_Amazon,,,,Splitting,2026-02-17,Warn,FOUND TABOCCO
+425,KETAN JADHAV,NX01540,AVANT,Mum_Amazon,,,,Splitting,2026-02-18,Warn,FOUND TABOCCO
+426,ANKIT KANOJIA,NX00884,HUMANIQE,Mum_Amazon,,,,Splitting,2026-02-18,Warn,FOUND TABOCCO
+427,SAHRUKH KHAN,NX00340,R.N,Mum_Amazon,,,,Splitting,2026-02-21,Warn,FOUND TABOCCO
+428,MOHAMMAD HUSAIN,NX01665,R.N,Mum_Amazon,,,,Splitting,2026-02-21,Warn,FOUND TABOCCO
+429,ARAMN ALI,NX00909,R.N,Mum_Amazon,,,,Splitting,2026-02-22,Warn,FOUND TABOCCO
+430,JULFUDDIN,NX00451,R.N,Mum_Amazon,,,,Splitting,2026-02-22,Warn,FOUND TABOCCO
+431,JABED ALI,NX00906,R.N,Mum_Amazon,,,,Splitting,2026-02-22,Warn,FOUND TABOCCO
+432,MERAJ AHAMAD,NX01868,PSN,Mum_Amazon,,,,Splitting,2026-02-22,Warn,FOUND TABOCCO
+433,SANI BHARDWAJ,NX01471,AVANT,Mum_Amazon,,,,Splitting,2026-02-22,Warn,FOUND TABOCCO
+434,MDDILNAWAZ,NX01372,AVANT,Mum_Amazon,,,,Splitting,2026-02-22,Warn,FOUND TABOCCO
+435,Datta Jawale,Humanique,datta,Pune_Amazon,,,,Splitting,2026-02-13,Warn,FOUND TABOCCO
+436,Selvamani V,NX0108,Stow,CHN_Amazon,,,,Munching,2026-02-03,Blacklisted,Blueocean
+437,Vishal D,NX0119,Stow,CHN_Amazon,,,,Munching,2026-02-06,Blacklisted,Blueocean
+438,Sibipriyan K,NX0122,Stow,CHN_Amazon,,,,Munching,2026-02-06,Blacklisted,Blueocean
+439,IBRAHIM KHALIL,NSC0671,NSC,BLR_Zepto_02,,,,Theft,2026-03-03,Blacklisted,CIGGARATE
+440,MD MASUM,CLS2200,CLS,BLR_Zepto_02,,,,Theft,2026-03-06,Blacklisted,CIGGARATE
+441,BIMAL LAKRA,YFS0175,YFS,BLR_Zepto_02,,,,Theft,2026-03-06,Blacklisted,LIGHTER & LIPSTIC
+442,MD AFROJ,GNH0853,GOGORRA,BLR_Zepto_02,,,,Theft,2026-03-06,Blacklisted,2 PKT CIGGARATE
+443,DILIP SOREN,YFS0134,YFS,BLR_Zepto_02,,,,Munching,2026-03-17,Blacklisted,MOUTHWASH 
+444,MD RAHMAN,GNH0896,GOGORRA,BLR_Zepto_02,,,,Theft,2026-03-20,Blacklisted,POWER BANK
+445,ROHIT,KVA0070,,BLR_Zepto_02,,,,Theft,2026-03-26,Blacklisted,CIGGARATE
+446,ANGEL BESRA,CLS1709,CLS,BLR_Zepto_02,,,,Munching,2026-03-03,Blacklisted,NOVA BELGIAL CHOCOLATE
+447,RUPNA CHAKMA,KMS1256,KMS,BLR_Zepto_02,,,,Munching,2026-03-03,Blacklisted,NOVA BELGIAL CHOCOLATE
+448,SK ALAUL,NSC0609,NSC,BLR_Zepto_02,,,,Munching,2026-03-17,Blacklisted,BISCUIT
+449,BIKASH,CLS2227,CLS,BLR_Zepto_02,,,,Munching,2026-03-13,Blacklisted,ENERGY DRING
+450,ANAND,MSE0305,MSE,BLR_Zepto_02,,,,Munching,2026-03-23,Blacklisted,CALLABERY CHOCOLATE
+451,AASHU KUMAR,CLS2338,CLS,BLR_Zepto_02,,,,Munching,2026-03-23,Blacklisted,SWEET LADDU
+452,GULSHAN KUMAR,KMS0689,CLS,BLR_Zepto_02,,,,Munching,2026-03-23,Blacklisted,SWEET LADDU
+453,DHARMA RAY,MSE0133,MSE,BLR_Zepto_02,,,,Munching,2026-03-26,Blacklisted,MILK
+454,SACHIN BARMAN,YFS0162,YFS,BLR_Zepto_02,,,,Munching,2026-03-27,Blacklisted,APPLE JUICE
+455,DHARAMRAJ,MSE0133,MSE,BLR_Zepto_02,,,,Splitting,2026-03-02,Warn,TOBACCO
+456,SANATAN MANNA,GNH0749,GOGORRA,BLR_Zepto_02,,,,Splitting,2026-03-04,Warn,TOBACCO 
+457,RAHUL KUMAR,GNH0903,GOGORRA,BLR_Zepto_02,,,,Splitting,2026-03-05,Warn,TOBACCO
+458,MANOJ KHAKALARY,MSE0236,MSE,BLR_Zepto_02,,,,Splitting,2026-03-06,Warn,TOBACCO
+459,ROHIT ANKURE,HBR0849,HBR,BLR_Zepto_02,,,,Splitting,2026-03-06,Warn,SMOKING AT WASHROOM
+460,PREM KUMAR,NSC0617,NSC,BLR_Zepto_02,,,,Splitting,2026-03-06,Warn,TOBACCO
+461,BINGI KRISHNA,KMS1695,KMS,BLR_Zepto_02,,,,Splitting,2026-03-06,Warn,TOBACCO
+462,ANSHU KUMAR,MSE0173,MSE,BLR_Zepto_02,,,,Splitting,2026-03-07,Warn,TOBACCO
+463,SAGAR ALI,SPS0007,SPS,BLR_Zepto_02,,,,Splitting,2026-03-07,Warn,TOBACCO
+464,SUREN RAI,HBR0929,HBR,BLR_Zepto_02,,,,Splitting,2026-03-08,Warn,TOBACCO
+465,ROHAN CHETRI,UCS0099,UCS,BLR_Zepto_02,,,,Splitting,2026-03-16,Warn,TOBACCO
+466,L SHAMLO HONYAT,KRA0009,KRA,BLR_Zepto_02,,,,Splitting,2026-03-16,Warn,CAUGHT TOBACCO INSIDE 
+467,MANPEI KONYAK,KRA0003,KRA,BLR_Zepto_02,,,,Splitting,2026-03-16,Warn,CAUGHT TOBACCO INSIDE 
+468,M REDDY DILIP,NSC0642,NSC,BLR_Zepto_02,,,,Theft,2026-03-17,Blacklisted,CAUGHT CIGGARATE INSIDE THE WH
+469,BICKEY MUNDA,MRV0012,MRV,BLR_Zepto_02,,,,Splitting,2026-03-22,Warn,GUTKA CAUGHT AT FRISKING
+470,RANJIT KUMAR,NSC0606,NSC,BLR_Zepto_02,,,,Splitting,2026-03-23,Warn,TOBACCO CAUGHT AT FRISKING
+471,RIZAUDDIN,MSE0318,MSE,BLR_Zepto_02,,,,Splitting,2026-03-23,Warn,FOUND GUTKA IN HDR RACK
+472,ROHIT KUMAR,KVA0070,KVA,BLR_Zepto_02,,,,Theft,2026-03-14,Blacklisted,BANNED ITEM (LIGHER) CARRIED INSIDE
+473,MARUFA BEGUM,UCS0192,UCS,BLR_Zepto_02,,,,Splitting,2026-03-25,Warn,FOUND GUTKA AT FRISKING TIME
+474,MAHAVIR AHIR,NSC0616,NSC,BLR_Zepto_02,,,,Splitting,2026-03-25,Warn,FOUND TOBACCO AT WASHROOM ENTRY 
+475,RAHUL,CLS1371,CLS,BLR_Zepto_02,,,,Splitting,2026-03-27,Warn,TOBACCO CAUGHT
+476,BISHNU,MSE0221,MSE,BLR_Zepto_02,,,,Splitting,2026-03-28,Warn,TOBACCO CAUGHT AT FRISKING OUT TIME
+477,SUPRAKASH,HBR0428,HBR,BLR_Zepto_01,,,,Splitting,2026-03-02,Warn,FOUND TABOCCO
+478,RAKESH RAM,GNH0927,GNH,BLR_Zepto_01,,,,Splitting,2026-03-02,Warn,FOUND TABOCCO
+479,SAMIN,CLS0816,CLS,BLR_Zepto_01,,,,Splitting,2026-03-02,Warn,FOUND TABOCCO
+480,MEHANDI ANSARI,NSC0556,NSC,BLR_Zepto_01,,,,Splitting,2026-03-04,Warn,FOUND TABOCCO
+481,THSUNGKHUMLE,CLS2261,CLS,BLR_Zepto_01,,,,Splitting,2026-03-05,Warn,FOUND TABOCCO
+482,CHARAN M,KMS1627,KMS,BLR_Zepto_01,,,,Theft,2026-03-05,Blacklisted,FOUND Thefting
+483,SUMA,CLS2129,CLS,BLR_Zepto_01,,,,Munching,2026-03-08,Blacklisted,FOUND MUNCING
+484,RANJEETHA,EN105,ENL,BLR_Zepto_01,,,,Theft,2026-03-08,Blacklisted,FOUND Thefting
+485,BABLU KUMAR,CLS1803,CLS,BLR_Zepto_01,,,,Splitting,2026-03-10,Warn,FOUND TABOCCO
+486,SUNITA,EN014,ENL,BLR_Zepto_01,,,,Munching,2026-03-10,Blacklisted,FOUND MUNCING
+487,BINAY KUMAR,GNH0371,GNH,BLR_Zepto_01,,,,Munching,2026-03-10,Blacklisted,FOUND MUNCING
+488,CHORESH MARANDI,KMS1008,KMS,BLR_Zepto_01,,,,Munching,2026-03-10,Blacklisted,FOUND MUNCING
+489,SANTOSH KUMAR,NSC0400,NSC,BLR_Zepto_01,,,,Munching,2026-03-10,Blacklisted,FOUND MUNCING
+490,SUNEL D,CLS1027,CLS,BLR_Zepto_01,,,,Munching,2026-03-10,Blacklisted,FOUND MUNCING
+491,RADHA MOHAN,CLS2238,CLS,BLR_Zepto_01,,,,Munching,2026-03-13,Blacklisted,FOUND MUNCING
+492,RAJIV KUMAR,CLS2002,CLS,BLR_Zepto_01,,,,Theft,2026-03-13,Blacklisted,FOUND Thefting
+493,MONIKA,EN031,ENL,BLR_Zepto_01,,,,Theft,2026-03-13,Blacklisted,FOUND Thefting
+494,MD SUKRAMIA,GNH1002,GNH,BLR_Zepto_01,,,,Munching,2026-03-17,Blacklisted,FOUND TABOCCO
+495,MD RIYAZ,CLS2038,CLS,BLR_Zepto_01,,,,Munching,2026-03-17,Blacklisted,FOUND TABOCCO
+496,PARBEZ ALOM,AVA0126,AVA,BLR_Zepto_01,,,,Munching,2026-03-17,Blacklisted,FOUND Thefting
+497,MD APTAB ,IRT0097,IRT,BLR_Zepto_01,,,,Others,2026-03-17,Warn,FOUND RICE DAMAGE
+498,MOHAN HALDER,HBR0750,HBR,BLR_Zepto_01,,,,Splitting,2026-03-17,Warn,FOUND TABOCCO
+499,SUDHIR K,YFS0202,YFS,BLR_Zepto_01,,,,Splitting,2026-03-17,Warn,FOUND TABOCCO
+500,AKASH GOTAM,CLS2369,CLS,BLR_Zepto_01,,,,Splitting,2026-03-17,Warn,FOUND TABOCCO
+501,SANJAY  DARJI,KMS1046,KMS,BLR_Zepto_01,,,,Splitting,2026-03-18,Warn,FOUND FIGHTING
+502,ARBITHA,ENL021,ENL,BLR_Zepto_01,,,,Theft,2026-03-18,Blacklisted,FOUND Thefting
+503,ANKIT ORAN,KMS1440,KMS,BLR_Zepto_01,,,,Splitting,2026-03-18,Warn,FOUND TABOCCO
+504,BALICHI KHIKA,CLS1327,CLS,BLR_Zepto_01,,,,Splitting,2026-03-21,Warn,FOUND TABOCCO
+505,SARAJ DAS,CLS2110,CLS,BLR_Zepto_01,,,,Munching,2026-03-21,Blacklisted,FOUND MUNCING
+506,SUDHIR,YFS0202,YFS,BLR_Zepto_01,,,,Splitting,2026-03-21,Warn,FOUND TABOCCO
+507,SAKOLDIP KUMAR,CLS2155,CLS,BLR_Zepto_01,,,,Splitting,2026-03-21,Warn,FOUND TABOCCO
+508,KHOGESH PATTNAYEK,IRT0112,IRT,BLR_Zepto_01,,,,Others,2026-03-22,Warn,FOUND DAMAGE
+509,MOJAM,KMS1178,KMS,BLR_Zepto_01,,,,Munching,2026-03-22,Blacklisted,FOUND DRINK
+510,DIPE CHAND ROY,KMS0926,KMS,BLR_Zepto_01,,,,Splitting,2026-03-22,Warn,FOUND TABOCCO
+511,NANDAN,HBR0489,HBR,BLR_Zepto_01,,,,Others,2026-03-22,Warn,FOUND FIGHTING
+512,SHASHI,HBR0100,HBR,BLR_Zepto_01,,,,Others,2026-03-22,Warn,FOUND FIGHTING
+513,SOHEIL,IRT0041,IRT,BLR_Zepto_01,,,,Munching,2026-03-22,Blacklisted,FOUND MUNCING
+514,SUDAMA,ROZ012,ROBUST,BLR_Zepto_01,,,,Splitting,2026-03-23,Warn,FOUND TABOCCO
+515,SURESH,GNH1034,GNH,BLR_Zepto_01,,,,Splitting,2026-03-23,Warn,FOUND TABOCCO
+516,VISHAL KUMAR,NSL0521,NSL,BLR_Zepto_01,,,,Splitting,2026-03-24,Warn,FOUND TABOCCO
+517,NIZAMUDEEN,SUV0538,KMS,BLR_Zepto_01,,,,Splitting,2026-03-24,Warn,FOUND TABOCCO
+518,VARTI,EN064,ENL,BLR_Zepto_01,,,,Munching,2026-03-24,Blacklisted,FOUND MUNCING
+519,SUNITA SANOWAL,HBR0092,HBR,BLR_Zepto_01,,,,Munching,2026-03-25,Blacklisted,FOUND MUNCING
+520,MONIKA DAHAL,AVA0118,AVA,BLR_Zepto_01,,,,Splitting,2026-03-25,Warn,FOUND TABOCCO
+521,AMIR ARIF,IRT0084,IRT,BLR_Zepto_01,,,,Munching,2026-03-25,Blacklisted,FOUND MUNCING
+522,MD SABIR,IRT0052,IRT,BLR_Zepto_01,,,,Munching,2026-03-25,Blacklisted,FOUND MUNCING
+523,MD AKMAL,IRT0091,IRT,BLR_Zepto_01,,,,Munching,2026-03-25,Blacklisted,FOUND MUNCING
+524,MALINGARAY,CLS2327,CLS,BLR_Zepto_01,,,,Splitting,2026-03-25,Warn,FOUND TABOCCO
+525,HASANUDDIN,KMS1493,KMS,BLR_Zepto_01,,,,Splitting,2026-03-27,Warn,FOUND TABOCCO
+526,PRINCE KUMAR,ROZ010,ROBUST,BLR_Zepto_01,,,,Splitting,2026-03-28,Warn,FOUND TABOCCO
+527,MAVAHRII,HBR1019,HBR,BLR_Zepto_01,,,,Splitting,2026-03-28,Warn,FOUND TABOCCO
+528,SHIKHA BASKI,KMS1648,KMS,BLR_Zepto_01,,,,Theft,2026-03-28,Blacklisted,FOUND Thefting
+529,NITEI,CLS1934,CLS,BLR_Zepto_01,,,,Splitting,2026-03-29,Warn,FOUND GUTKHA
+530,MI SHAHZEB,IRT0061,IRT,BLR_Zepto_01,,,,Theft,2026-03-29,Blacklisted,FOUND Thefting
+531,RANJEET,IRT0104,IRT,BLR_Zepto_01,,,,Theft,2026-03-29,Blacklisted,FOUND Thefting
+532,AJITH KUMAR,NSC0755,NSC,BLR_Zepto_01,,,,Splitting,2026-03-29,Warn,FOUND TABOCCO
+533,SUMIT SHOW,HBR0833,HBR,BLR_Zepto_01,,,,Splitting,2026-03-29,Warn,FOUND TABOCCO
+534,GYTHRI,ENL247,ENL,BLR_Zepto_01,,,,Theft,2026-03-29,Blacklisted,FOUND Thefting
+535,NAYAN PAUL,IRT0112,IRT,BLR_Zepto_01,,,,Splitting,2026-03-30,Warn,FOUND TABOCCO
+536,SAURAV,HBR0879,HBR,BLR_Zepto_01,,,,Munching,2026-03-31,Blacklisted,FOUND MUNCING
+537,DIPANKAR,CLS2111,CLS,BLR_Zepto_01,,,,Munching,2026-03-31,Blacklisted,FOUND MUNCING
+538,Arun Pawar,Security,Security,Pune_Amazon,,,,Splitting,2026-03-03,Warn,Tabacco
+539,Sandip Kumar,SMP,SMP,Pune_Amazon,,,,Splitting,2026-03-10,Warn,Tabacco
+540,Arun Gambhire,Humanique,Humanique,Pune_Amazon,,,,Splitting,2026-03-13,Warn,Tabacco
+541,Ajay Samant,VTS,VTS,Pune_Amazon,,,,Splitting,2026-03-14,Warn,Tabacco
+542,Anjali Ingle,PSN,PSN,Pune_Amazon,,,,Theft,2026-03-16,Blacklisted,"Clutcher , Watch"
+543,Sandip Kumar,SMP,SMP,Pune_Amazon,,,,Splitting,2026-03-20,Warn,Tabacco
+544,Omkar Jagtap,Tirupati,Tirupati,Pune_Amazon,,,,Splitting,2026-03-20,Warn,Tabacco
+545,Maruti Sable,Tirupati,Tirupati,Pune_Amazon,,,,Splitting,2026-03-20,Warn,Tabacco
+546,Shivam Pardhi,Viraj,Viraj,Pune_Amazon,,,,Splitting,2026-03-25,Warn,Tabacco
+547,Associate,BDL0010,PSN,BDL_Amazon,,,,Munching,2026-03-17,Blacklisted,MUNCHING
+548,MOHID SABIR,NX01915,R.N,BWD_Amazon,,,,Others,2026-03-24,Warn,Product Damage
+549,Mohamad Samin,NX01678,"R,N",BWD_Amazon,,,,Splitting,2026-03-12,Warn,Tobacco 
+550,TAHKIR AHAMED,NX02209,ATHARVA,BWD_Amazon,,,,Splitting,2026-03-19,Warn,Tobacco 
+551,ATUL AYUSH,NX01365,ATHARVA,BWD_Amazon,,,,Splitting,2026-03-27,Warn,Tobacco 
+552,KUNAL JADHAV,NX02132,AVANT,BWD_Amazon,,,,Splitting,2026-03-28,Warn,Tobacco 
+553,PRAVIN SING,NX02017,HUM,BWD_Amazon,,,,Others,2026-03-07,Warn,DAMEGE
+554,Aniket Kanojiya , NX00884,HUM,BWD_Amazon,,,,Others,2026-03-16,Warn,DAMEGE
+555,ROHAN ADHIKARI,NX01530,R.N,BWD_Amazon,,,,Others,2026-03-16,Warn,DAMEGE
+556,SURAJ PATIL,NX01927,HUM,BWD_Amazon,,,,Splitting,2026-03-22,Warn,DAMEGE
+557,KUNAL ADHIKARI,NX00911,R.N,BWD_Amazon,,,,Splitting,2026-03-30,Warn,DAMEGE
+558,JAY KACHUA,KMS0028,KMS,BLR_Amazon,,,,Splitting,2026-03-05,Warn,Our security caught tobacco in their pockets and mouths during checking
+559,RAUSHAN KUMAR,KVB0545,KVB,BLR_Amazon,,,,Splitting,2026-03-05,Warn,Our security caught tobacco in their pockets and mouths during checking
+560,ABDULL AH,GNA0049,GNA,BLR_Amazon,,,,Splitting,2026-03-05,Warn,The restroom guard was caught checking in during working hours.
+561,RAJESH KUMAR,AVN0181,AVN,BLR_Amazon,,,,Splitting,2026-03-05,Warn,Caught During main entrance frisking
+562,BAIDA,AMSE0086,AMSE,BLR_Amazon,,,,Splitting,2026-03-05,Warn,Our security caught tobacco in their pockets and moughts during checking
+563,Abhijit,GNA0117,AVN,BLR_Amazon,,,,Splitting,2026-03-06,Warn,Caught During main entrance frisking
+564,BIKASH,AVN0282,AVN,BLR_Amazon,,,,Splitting,2026-03-14,Warn,The restroom guard was caught checking in during working hours.
+565,AJAY,GNA0116,GNA,BLR_Amazon,,,,Splitting,2026-03-14,Warn,Our security caught tobacco in their pockets and moughts during checking
+566,SK SAKIR,ACLS0522,ACLS,BLR_Amazon,,,,Splitting,2026-03-15,Warn,Caught During main entrance frisking
+567,MANOHAR,ACLS0598,ACLS,BLR_Amazon,,,,Splitting,2026-03-17,Warn,Our security caught tobacco in their pockets and moughts during checking
+568,PRASANJIT,ACLS0466,ACLS,BLR_Amazon,,,,Splitting,2026-03-21,Warn,Caught During main entrance frisking
+569,HARISHANKAR,AMSE0193,AMSE,BLR_Amazon,,,,Splitting,2026-03-22,Warn,The restroom guard was caught checking in during working hours.
+570,PRAKASH,HBA0598,HBA,BLR_Amazon,,,,Splitting,2026-03-23,Warn,Caught During main entrance frisking
+571,PRAVEEN,ROB0061,ROB,BLR_Amazon,,,,Splitting,2026-03-23,Warn,Our security caught tobacco in their pockets and moughts during checking
+572,BISHAL,HBA0618,HBA,BLR_Amazon,,,,Splitting,2026-03-25,Warn,Caught During main entrance frisking
+573,SUMIT HAGORG,HBA0600,HBA,BLR_Amazon,,,,Splitting,2026-03-26,Warn,The restroom guard was caught checking in during working hours.
+574,Navchan Reddy,ROB0014,ROB,BLR_Amazon,,,,Splitting,2026-03-03,Warn,The entrance guard caught him while checking
+575,KAMOLASHASAN,ACLS0369,ACLS,BLR_Amazon,,,,Munching,2026-03-06,Blacklisted,Caught at CCTV during munching 
+576,Nikhil kumar matho,HBA0257,HBA,BLR_Amazon,,,,Munching,2026-03-16,Blacklisted,Caught at CCTV during munching 
+577,Dhresh kumar,KVB0599,KVB,BLR_Amazon,,,,Munching,2026-03-17,Blacklisted,Caught at CCTV during munching 
+578,MOGULEAU KHAN,HBA0666,HBA,BLR_Amazon,,,,Munching,2026-03-18,Blacklisted,Caught at CCTV during munching 
+579,Gyanjoti,AVN0231,AVN,BLR_Amazon,,,,Splitting,2026-03-22,Warn,The guard caught hin while paterolling
+580,Elish ali,HBA0643,HBA,BLR_Amazon,,,,Splitting,2026-03-22,Warn,The entrance guard caught him while checking
+581,Auuadhesh,HBA0230,HBA,BLR_Amazon,,,,Munching,2026-03-23,Blacklisted,Caught at CCTV during munching 
+582,Naresh Pal,HBA0590,HBA,BLR_Amazon,,,,Splitting,2026-03-28,Warn,The guard caught hin while paterolling
+583,CHETHOS H.S,AVN0529,AVN,BLR_Amazon,,,,Splitting,2026-03-30,Warn,The entrance guard caught him while checking
+584,SAGAR KUMAR,GNA0146,GNA,BLR_Amazon,,,,Munching,2026-03-30,Blacklisted,Caught at CCTV during munching 
+585,ABHISHEK,ANC0057,ANC,BLR_Amazon,,,,Munching,2026-03-30,Blacklisted,Caught at CCTV during munching 
+586,Ravi Kumar,NX02314,HUMANIQE,BWD_Amazon,,,,Splitting,2026-04-17,Warn,Tobacco 
+587,HINADRI SHRIDHAR,NX01742,R.N,BWD_Amazon,,,,Others,2026-04-04,Warn,DAMEGE
+588,KUNAL ADHIKARI,NX00911,,BWD_Amazon,,,,Others,2026-04-04,Warn,DAMEGE
+589,PRIYA,NX02193,,BWD_Amazon,,,,Others,2026-04-17,Warn,DAMEGE
+590,VAISHALI,NX02075,,BWD_Amazon,,,,Others,2026-04-18,Warn,DAMEGE
+591,mohammad,NX02546,HUM,BWD_Amazon,,,,Others,2026-04-26,Warn,DAMEGE
+592,Ruksana,NX02328,PSN,BWD_Amazon,,,,Others,2026-04-29,Warn,DAMEGE
+593,VISHAL BHALKE,,RN,BWD_Amazon,,,,Munching,2026-04-04,Blacklisted,MUNCHING
+594,SAHIL NADEKAR,,RN,BWD_Amazon,,,,Munching,2026-04-04,Blacklisted,MUNCHING
+595,HARSH THORAT,,RN,BWD_Amazon,,,,Munching,2026-04-04,Blacklisted,MUNCHING
+596,AKSHAY,NX02181,RN,BWD_Amazon,,,,Munching,2026-04-04,Blacklisted,MUNCHING
+597,Ajay Madvi,NX02051,,BWD_Amazon,,,,Munching,2026-04-18,Blacklisted,MUNCHING
+598,Sanket Dingore,NX02024,,BWD_Amazon,,,,Munching,2026-04-18,Blacklisted,MUNCHING
+599,Herandra Kumar,ACLS0740,CLS,BLR_Amazon,,,,Splitting,2026-04-07,Warn,Our security caught tobacco in their pockets and mouths during checking
+600,Laxmipathi,AVN0637,AVN,BLR_Amazon,,,,Splitting,2026-04-09,Warn,Our security caught tobacco in their pockets and mouths during checking
+601,Raushan Kumar,KVB0545,KVB,BLR_Amazon,,,,Splitting,2026-04-12,Warn,The restroom guard was caught checking in during working hours.
+602,Munu,HBA0715,HBR,BLR_Amazon,,,,Splitting,2026-04-13,Warn,Caught During main entrance frisking
+603,Afruchi Mog,AVN0012,AVN,BLR_Amazon,,,,Splitting,2026-04-13,Warn,Our security caught tobacco in their pockets and moughts during checking
+604,Moni Patel,ACLS0799,CLS,BLR_Amazon,,,,Splitting,2026-04-17,Warn,Caught During main entrance frisking
+605,Roshan Roy,AMSE0250,AMS,BLR_Amazon,,,,Splitting,2026-04-21,Warn,The restroom guard was caught checking in during working hours.
+606,Nithin,ACLS0491,CLS,BLR_Amazon,,,,Splitting,2026-04-24,Warn,Our security caught tobacco in their pockets and moughts during checking
+607,Vishal Kumar,AMSE0263,AMS,BLR_Amazon,,,,Splitting,2026-04-26,Warn,Caught During main entrance frisking
+608,Bipul Kumar,ACLS0396,ACL,BLR_Amazon,,,,Splitting,2026-04-30,Warn,Caught During main entrance frisking
+609,Vishal Been,AMSE0189,AMS,BLR_Amazon,,,,Theft,2026-04-05,Blacklisted,Stolen condom & vibrating ring  has been recovered
+610,Nelson Minj,AMSE0227,AMS,BLR_Amazon,,,,Theft,2026-04-06,Blacklisted,Stolen  trimmer face  hair remover has been recovered
+611,Mohdarbab,AMSE0224,AMS,BLR_Amazon,,,,Munching,2026-04-02,Blacklisted,Caught whil being checked at the main entrance
+612,Vikram kumar,HBA0459,HBA,BLR_Amazon,,,,Munching,2026-04-18,Blacklisted,The guard caught hin while paterolling
+613,subhash chandra das,KVB0546,KVB,BLR_Amazon,,,,Munching,2026-04-20,Blacklisted,Caught at CCTV during munching 
+614,Paruthamma,EN231,EVN,BLR_Amazon,,,,Munching,2026-04-20,Blacklisted,The guard caught hin while paterolling
+615,Bhanu Prathap,KVB0506,KVB,BLR_Amazon,,,,Munching,2026-04-26,Blacklisted,The guard caught hin while paterolling
+616,Vaibhav Panday,GNA0173,GNA,BLR_Amazon,,,,Munching,2026-04-27,Blacklisted,Caught at CCTV during munching 
+617,Vinod,ACLS0984,ACL,BLR_Amazon,,,,Munching,2026-04-27,Blacklisted,Caught at CCTV during munching 
+618,Ambika,ACLS0853,ACL,BLR_Amazon,,,,Munching,2026-04-30,Blacklisted,Caught at CCTV during munching 
+619,Meghana,CLSS0788,CLS,BLR_Amazon,,,,Munching,2026-04-30,Blacklisted,Caught at CCTV during munching 
+620,JAYPRAKASH,KMS1823,KMS,BLR_Zepto_01,,,,Munching,2026-04-02,Blacklisted,FOUND MUNCING
+621,SHAIK KHAJAPEER,EN213,ENL,BLR_Zepto_01,,,,Munching,2026-04-02,Blacklisted,FOUND WORNING
+622,MANGAL HORO,NSC0706,NSC,BLR_Zepto_01,,,,Munching,2026-04-03,Blacklisted,FOUND TAMBACCO
+623,ANAND KUMAR,CLS1218,CLS,BLR_Zepto_01,,,,Munching,2026-04-04,Blacklisted,FOUND MUNCING
+624,DHARAND,NSC0252,NSC,BLR_Zepto_01,,,,Munching,2026-04-04,Blacklisted,FOUND MUNCING
+625,BIJAN BHANDARI,HBR1020,HBR,BLR_Zepto_01,,,,Splitting,2026-04-05,Warn,FOUND TOBACO
+626,VENU PULI,YFS0258,YFS,BLR_Zepto_01,,,,Splitting,2026-04-05,Warn,FOUND TOBACO
+627,TSUSULA,CLS2258,CLS,BLR_Zepto_01,,,,Splitting,2026-04-05,Warn,FOUND GUTKHA
+628,Dinanath,KMS1868,KMS,BLR_Zepto_01,,,,Splitting,2026-04-08,Warn,FOUND TOBACO
+629,SUSHANTA KUMAR,CLS2589,CLS,BLR_Zepto_01,,,,Splitting,2026-04-08,Warn,FOUND TOBACO
+630,RINTU KUMAR,NSC0744,NSC,BLR_Zepto_01,,,,Splitting,2026-04-09,Warn,FOUND TOBACO
+631,Gopinath Das,YFS0235,YFS,BLR_Zepto_01,,,,Splitting,2026-04-10,Warn,FOUND TOBACO
+632,SURAJ DAS,CLS2110,CLS,BLR_Zepto_01,,,,Splitting,2026-04-10,Warn,FOUND TOBACO
+633,PRADIP KAUL,HBR0257,HBR,BLR_Zepto_01,,,,Splitting,2026-04-10,Warn,FOUND TOBACO
+634,PAWAN KUMAR,GNH0928,GNH,BLR_Zepto_01,,,,Splitting,2026-04-10,Warn,FOUND TOBACO
+635,Y GUPTHA,NSC0500,NSC,BLR_Zepto_01,,,,Munching,2026-04-10,Blacklisted,FOUND MUNCING
+636,PRINCH KUMAR,ROZ010,ROZ,BLR_Zepto_01,,,,Theft,2026-04-11,Blacklisted,FOUND THEFT
+637,SUSHANTA SINGH,HBR1016,HBR,BLR_Zepto_01,,,,Others,2026-04-11,Warn,DAMAGE A MATARIAL
+638,GOVINDA BAITHA,CLS2319,CLS,BLR_Zepto_01,,,,Splitting,2026-04-11,Warn,FOUND TOBACO
+639,SUBHAM BISWAS,CLS0146,CLS,BLR_Zepto_01,,,,Splitting,2026-04-11,Warn,FOUND TOBACO
+640,DHANANJAY,GNH1061,GNH,BLR_Zepto_01,,,,Splitting,2026-04-13,Warn,FOUND TOBACO
+641,PADMO DAS,SBR0874,SBR,BLR_Zepto_01,,,,Splitting,2026-04-13,Warn,FOUND TOBACO
+642,MD SARFARAZ,IRT0114,IRT,BLR_Zepto_01,,,,Splitting,2026-04-15,Warn,FOUND TOBACO
+643,AKASH,GNH1003,GNH,BLR_Zepto_01,,,,Splitting,2026-04-15,Warn,FOUND TOBACO
+644,DEEPAK KHARA,CLS2533,CLS,BLR_Zepto_01,,,,Splitting,2026-04-16,Warn,FOUND TOBACO
+645,BABLU KUMAR,CLS1803,CLS,BLR_Zepto_01,,,,Splitting,2026-04-17,Warn,FOUND TOBACO
+646,VIRENDRA JAISWAL,KMS1912,KMS,BLR_Zepto_01,,,,Splitting,2026-04-18,Warn,FOUND TOBACO
+647,SURAJ KUMAR,HBR1015,HBR,BLR_Zepto_01,,,,Munching,2026-04-19,Blacklisted,FOUND MUNCHING
+648,KAJAL KUMARI,CLS2663,CLS,BLR_Zepto_01,,,,Splitting,2026-04-19,Warn,FOUND TOBACO
+649,Gopinath Das,YFS0235,YFS,BLR_Zepto_01,,,,Splitting,2026-04-20,Warn,FOUND GUTKHA
+650,JAYANTA,KMS1908,KMS,BLR_Zepto_01,,,,Splitting,2026-04-22,Warn,FOUND TOBACO
+651,JYOTHI,CLS1242,CLS,BLR_Zepto_01,,,,Munching,2026-04-22,Blacklisted,FOUND MUNCHING
+652,TIMOTHY KUJUR,HBR1146,HBR,BLR_Zepto_01,,,,Splitting,2026-04-23,Warn,FOUND TOBACO
+653,AMIT KR DAS,GNH1120,GNH,BLR_Zepto_01,,,,Splitting,2026-04-23,Warn,FOUND TOBACO
+654,YOGESH H.S,NSC667,NSC,BLR_Zepto_01,,,,Others,2026-04-24,Warn,DAMAGE A MATARIAL
+655,ADAM TAYING,KMS0837,KMS,BLR_Zepto_01,,,,Others,2026-04-24,Warn,DAMAGE A MATARIAL
+656,TIMOTHY KUJUR,HBR1146,HBR,BLR_Zepto_01,,,,Splitting,2026-04-25,Warn,FOUND TOBACO
+657,JAYRAM ,KMS1822,KMS,BLR_Zepto_01,,,,Munching,2026-04-25,Blacklisted,FOUND MUNCHING
+658,TRALOKYA BORA,YFS0287,YFS,BLR_Zepto_01,,,,Splitting,2026-04-27,Warn,FOUND TOBACO
+659,AMIIT MAHARANA,KMS1779,KMS,BLR_Zepto_01,,,,Munching,2026-04-27,Blacklisted,FOUND MUNCHING
+660,JAY PRAKASH,HBR1163,HBR,BLR_Zepto_01,,,,Munching,2026-04-28,Blacklisted,FOUND MUNCHING
+661,ARUN,KMS1424,KMS,BLR_Zepto_01,,,,Munching,2026-04-29,Blacklisted,FOUND MUNCHING
+662,MD.SOHEIL,IRT0041,IRT,BLR_Zepto_01,,,,Splitting,2026-04-29,Warn,FOUND TOBACO
+663,AARTI,EN225,ENLEVEN,BLR_Zepto_02,,,,Theft,2026-04-08,Blacklisted,THEFT
+664,RAHUL RANJAN,CLS1371,CLS,BLR_Zepto_02,,,,Theft,2026-04-05,Blacklisted,COLAGTE MRP 575
+665,PRINS YADAV,CLS2267,CLS,BLR_Zepto_02,,,,Theft,2026-04-26,Blacklisted,LIP BALM
+666,PIRU HANSDA,YFS0170,YFS,BLR_Zepto_02,,,,Munching,2026-04-01,Blacklisted,COCONUT WATER
+667,GUARA SAW,MSE0279,MSE,BLR_Zepto_02,,,,Munching,2026-04-03,Blacklisted,MUNCHING
+668,RAJESH G,MSE0274,MSE,BLR_Zepto_02,,,,Munching,2026-04-03,Blacklisted,MUNCHING
+669,OMPAL SINGH,WRPL10158,WATRANA,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER
+670,MOHAMMED FEIZEL,PSL0011,PSL,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER
+671,SADDAM KHAN,CLS2283,CLS,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER AND SWEET
+672,ROSHAN ORANG,CLS2284,CLS,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER AND SWEET
+673,SOUMYADEV MANDAL,HBR1022,HBR,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER AND SWEET
+674,TANMAYA SAMAL,KMS1781,KMS,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER AND SWEET
+675,GOLU,GNH0871,GOGORRA,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER AND SWEET
+676,LAKSHMAN SINGH,HBR0893,HBR,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MONSTER AND SWEET
+677,ROSHAN,CLS2284,CLS,BLR_Zepto_02,,,,Munching,2026-04-08,Blacklisted,MUNCHING
+678,HARISH. V.,MSE0316,MSE,BLR_Zepto_02,,,,Munching,2026-04-13,Blacklisted,MUNCHING
+679,GOVINDDAS MOINANGTHERN,HBR1066,HBR,BLR_Zepto_02,,,,Munching,2026-04-17,Blacklisted,MUNCHING
+680,DRUVKUMAR PUKHRABAN,HBR0467,HBR,BLR_Zepto_02,,,,Munching,2026-04-17,Blacklisted,MUNCHING
+681,MANPEI,KRA0003,KRA,BLR_Zepto_02,,,,Munching,2026-04-19,Blacklisted,MUNCHING
+682,VICKKY,KMS1720,KMS,BLR_Zepto_02,,,,Munching,2026-04-20,Blacklisted,MUNCHING
+683,AKSHAY PRADHAN,KMS1431,KMS,BLR_Zepto_02,,,,Munching,2026-04-21,Blacklisted,MONSTER AND SWEET
+684,V. NARESH,MSE0307,MSE,BLR_Zepto_02,,,,Munching,2026-04-22,Blacklisted,SWEET
+685,MAYASHANKAR,ANC0099,ANC,BLR_Zepto_02,,,,Munching,2026-04-22,Blacklisted,ALMONDS IN POCKET
+686,YASHWANT KUMAR,CLS2575,CLS,BLR_Zepto_02,,,,Munching,2026-04-22,Blacklisted,SWEET
+687,MANJEET ARMO,CLS2576,CLS,BLR_Zepto_02,,,,Munching,2026-04-22,Blacklisted,SWEET
+688,LAXMIMONI CHAKMA,PSL0096,PSL,BLR_Zepto_02,,,,Munching,2026-04-25,Blacklisted,CHIPS
+689,ANUJ,HBR1040,HBR,BLR_Zepto_02,,,,Munching,2026-04-26,Blacklisted,MUNCHING
+690,MAISA HANSDA,UCS0214,UCS,BLR_Zepto_02,,,,Munching,2026-04-26,Blacklisted,CHIPS
+691,RUPENDRA SHAHU,ANC0020,ANC,BLR_Zepto_02,,,,Munching,2026-04-27,Blacklisted,MIX ALMONDS
+692,SONARAM MUNDA,KRA0059,KRA,BLR_Zepto_02,,,,Munching,2026-04-27,Blacklisted,MIX ALMONDS
+693,RASHMITA SOREN,"VSE0219
+MSE0219","VSE
+MSE",BLR_Zepto_02,,,,Splitting,2026-04-01,Warn,CIGGARATE CAUGHT AT WASHROOM
+694,VIJAY KUMAR,YFS0189,YFS,BLR_Zepto_02,,,,Splitting,2026-04-01,Warn,TOBACCO CAUGHT AT ENTERANCE
+695,PAPUJYOTI,PSL0029,PSL,BLR_Zepto_02,,,,Splitting,2026-04-01,Warn,TOBACCO CAUGHT AT WAREHOUSE INSIDE
+696,ABDUL,ANC0032,ANC,BLR_Zepto_02,,,,Splitting,2026-04-03,Warn,TOBACCO CAUGHT AT ENTERANCE
+697,BALA KRISHNA,GNH1048,GOGORRA,BLR_Zepto_02,,,,Splitting,2026-04-03,Warn,TOBACCO CAUGHT AT HIGH VALUE CHECK POINT
+698,SHAMLO KENYAK,KRA0009,KRA,BLR_Zepto_02,,,,Splitting,2026-04-05,Warn,TOBACCO CASE
+699,RANJITH KUMAR,NSC0606,NSC,BLR_Zepto_02,,,,Splitting,2026-04-06,Warn,TOBACCO CASE
+700,RUPENDRA,ANC0020,ANC,BLR_Zepto_02,,,,Splitting,2026-04-09,Warn,TOBACCO CAUGHT AT WAASHROOM
+701,RAJA KUMAR,IRT0079,IRT,BLR_Zepto_02,,,,Munching,2026-04-10,Blacklisted,MUNCHING
+702,MD SADDAM,CLS2283,CLS,BLR_Zepto_02,,,,Splitting,2026-04-10,Warn,TOBACCO CAUGHT AT ENTERANCE
+703,AWEJOHN,KRA0041,KRA,BLR_Zepto_02,,,,Splitting,2026-04-12,Warn,TOBACCO CAUGHT AT ENTERANCE
+704,SANJU DEBNATH,KMS1792,KMS,BLR_Zepto_02,,,,Splitting,2026-04-12,Warn,TOBACCO CAUGHT AT ENTERANCE
+705,SEKH MESBAHUL,UCS0217,UCS,BLR_Zepto_02,,,,Splitting,2026-04-13,Warn,CONSUMING TOBACCO
+706,AMIT,EMP0193278,EMP,BLR_Zepto_02,,,,Splitting,2026-04-13,Warn,CONSUMING TOBACCO
+707,FRANKLIN A.,EMP0193277,EMP,BLR_Zepto_02,,,,Splitting,2026-04-13,Warn,CONSUMING TOBACCO
+708,ROHAN KUMAR,ANC0092,ANC,BLR_Zepto_02,,,,Splitting,2026-04-15,Warn,CONSUMING TOBACCO
+709,ALOK KUMAR,YFS0209,YFS,BLR_Zepto_02,,,,Splitting,2026-04-16,Warn,CONSUMING TOBACCO
+710,MD FAKIRULISLAM,UCS0240,UCS,BLR_Zepto_02,,,,Splitting,2026-04-21,Warn,CONSUMING TOBACCO
+711,JITENDRA BEHRA,KMS1696,KMS,BLR_Zepto_02,,,,Splitting,2026-04-22,Warn,CONSUMING TOBACCO
+712,PARTHA DATTA,YFS0131,YFS,BLR_Zepto_02,,,,Splitting,2026-04-22,Warn,CONSUMING TOBACCO
+713,BRIND LAL,GNH1031,GNH,BLR_Zepto_02,,,,Splitting,2026-04-22,Warn,CONSUMING TOBACCO
+714,PRASHANT KR NAYAK,ANC0066,ANC,BLR_Zepto_02,,,,Splitting,2026-04-22,Warn,CONSUMING TOBACCO
+715,PREMANANDA MOHNTA,KRA0005,KRA,BLR_Zepto_02,,,,Splitting,2026-04-22,Warn,CONSUMING TOBACCO
+716,AMAN KUMAR,HBR1077,HBR,BLR_Zepto_02,,,,Splitting,2026-04-26,Warn,CONSUMING TOBACCO
+717,Rushikesh Gadekar,APS,APS,Pune_Amazon,,,,Splitting,2026-04-15,Warn,Tabbacco
+718,Ashish Bharane,Sadguru,Sadguru,Pune_Amazon,,,,Splitting,2026-04-20,Warn,Tabbacco
+719,Kunal Arude,Jay Ganesh,Jay Ganesh,Pune_Amazon,,,,Splitting,2026-04-21,Warn,Tabbacco
+720,SAHIL KUMAR,CLS2504,CLS,BLR_Zepto_02,,,,Munching,20-04-2026,Blacklisted,LADDU
+721,AMIT KUMAR,CLS2505,CLS,BLR_Zepto_02,,,,Munching,20-04-2026,Blacklisted,LADDU
+722,RAJESH RANA,KMS1885,KMS,BLR_Zepto_02,,,,Munching,27-04-2026,Blacklisted,AMUL COOL
+723,MANTU MAHANANDA,HBR1039,HBR,BLR_Zepto_02,,,,Munching,27-04-2026,Blacklisted,CHIPS
+724,PRITINAND,MSE0293,MSE,BLR_Zepto_02,,,,Munching,29-04-2026,Blacklisted,HAJMOLA
+725,SUKARI KUMARI,UCS0195,UCS,BLR_Zepto_02,,,,Munching,29-04-2026,Blacklisted,CAKE
+726,BIVEK BARLA,HBR0928,HBR,BLR_Zepto_02,,,,Munching,2026-01-05,Blacklisted,MUNCHING
+727,SANYA,NSC0652,NSC,BLR_Zepto_02,,,,Munching,2026-02-05,Blacklisted,USE EYE LINER
+728,MD SHAHIL,IRT0088,IRT,BLR_Zepto_02,,,,Munching,2026-03-05,Blacklisted,MIXER CHIPS
+729,MD GULJAR,HBR1064,HBR,BLR_Zepto_02,,,,Munching,2026-11-05,Blacklisted,MUNCHING
+730,SASMITA,HBR0800,HBR,BLR_Zepto_02,,,,Munching,16-05-2026,Blacklisted,MUNCHING
+731,TITESH,CLS2562,CLS,BLR_Zepto_02,,,,Munching,16-05-2026,Blacklisted,MUNCHING
+732,LAXMI MANI CHAKMA,PSL0096,PSL,BLR_Zepto_02,,,,Munching,20-05-2026,Blacklisted,CHIPS
+733,BIPIN,UCS0212,UCS,BLR_Zepto_02,,,,Munching,21-05-2026,Blacklisted,MIXER CHIPS
+734,GAGAN,MSE0069,MSE,BLR_Zepto_02,,,,Munching,24-05-2026,Blacklisted,HAJMOLA
+735,SANJAY GHOSH,MSE0290,MSE,BLR_Zepto_02,,,,Munching,24-05-2026,Blacklisted,CHIPS
+736,GOLU KUMAR,ANC0175,ANC,BLR_Zepto_02,,,,Munching,25-05-2026,Blacklisted,HIDE & SEEK
+737,AJAY KUMAR PASWAN,KMS2057,KMS,BLR_Zepto_02,,,,Munching,27-05-2026,Blacklisted,BISCUITE
+738,LOKAI SOREN,PSL0260,PSL,BLR_Zepto_02,,,,Munching,27-05-2026,Blacklisted,CHOCOLATE
+739,PRABHAKAR A,YFS0063,YFS,BLR_Zepto_02,,,,Munching,27-05-2026,Blacklisted,CAKE
+740,SENEM KANDIR,GNH0681,GNH,BLR_Zepto_02,,,,Munching,27-05-2026,Blacklisted,CHOCOLATE
+741,SUBHAJIT SINGH,CLS1561,CLS,BLR_Zepto_02,,,,Munching,27-05-2026,Blacklisted,GULAB JAMUN
+742,ANKIT KUMAR,YFS0196,YFS,BLR_Zepto_02,,,,Munching,28-05-2026,Blacklisted,CHOCOLATE
+743,ANISH GHONTI,HBR1269,HBR,BLR_Zepto_02,,,,Munching,29-05-2026,Blacklisted,COCO CREAM
+744,MOMTAZ,UCS0169,UCS,BLR_Zepto_02,,,,Theft,29-04-2026,Blacklisted,STOLEN T-SHIRT
+745,SONIYA SIMIT,PSL0008,PSL,BLR_Zepto_02,,,,Theft,2026-03-05,Blacklisted,STOLEN A MAMAEARTH FACEWASH
+746,ASHISH KUMAR,ROZ0071,ROZ,BLR_Zepto_02,,,,Theft,2026-08-05,Blacklisted,GOLDEN PEN
+747,AKSHAY KUMAR,UCS0126,UCS,BLR_Zepto_02,,,,Theft,22-05-2026,Blacklisted,STOLEN A NAIL POLISH
+748,SOUMYADEB MONDAL,HBR1022,HBR,BLR_Zepto_02,,,,Theft,24-05-2026,Blacklisted,STOLEN A MEMORY CARD
+749,MANOJ KUMAR SAHU,KMS1972,KMS,BLR_Zepto_02,,,,Theft,24-05-2026,Blacklisted,STOLLEN A NU EARBUDS
+750,RAUSHAN ORAON,CLS2284,CLS,BLR_Zepto_02,,,,Theft,24-05-2026,Blacklisted,STOLLEN A NU EARBUDS
+751,SUMIT KUMAR,GNH1084,GNH,BLR_Zepto_02,,,,Theft,24-05-2026,Blacklisted,STOLLEN A NU EARBUDS
+752,KALLOL PANDIT,ANC0013,ANC,BLR_Zepto_02,,,,Theft,26-05-2026,Blacklisted,SHOCKS USED
+753,BURHANUDDIN RABANI,ROZ0168,ROZ,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,"ATTEMPT TO STEEL LIGHTER BY
+CONCEALING THEM INSIDE HIS PURSE"
+754,MANAS KUMAR,CLS2183,CLS,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,"ATTEMPTED TO STEAL CIGGARATE PKT
+BY TAPING THEM TO THE LEG"
+755,KISHOR KUMAR,MSE0346,MSE,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,USE COMPANY INVENTORY PEN
+756,BOBIDUL ISLAM,UCS0129,UCS,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,PILGRIM SHAMPOO AND CASTING CRÈME
+757,LAKSHMI,EN034,ENLIVEN,BLR_Zepto_02,,,,Theft,20-05-2026,Blacklisted,ATTEMPT TO STEEL RASGULLA
+758,NIKHIL,UCS0228,UCS,BLR_Zepto_02,,,,Splitting,29-04-2026,Warn,CONSUMING TOBACCO
+759,SURAJ KUMAR,KMS1763,KMS,BLR_Zepto_02,,,,Splitting,29-04-2026,Warn,CONSUMING TOBACCO
+760,L YAHE,KRA0043,KRA,BLR_Zepto_02,,,,Splitting,2026-01-05,Warn,CONSUMING TOBACCO
+761,ABHINASH RAJ,ROZ0086,ROZ,BLR_Zepto_02,,,,Splitting,2026-01-05,Warn,CONSUMING TOBACCO
+762,LALPEKA,ROZ0055,ROZ,BLR_Zepto_02,,,,Splitting,2026-02-05,Warn,CARRING CIGARETTE IN POCKET
+763,SONU MINJ,UCS0154,UCS,BLR_Zepto_02,,,,Splitting,2026-02-05,Warn,CONSUMING TOBACCO
+764,ADITYA SUNWAR,CLS1625,CLS,BLR_Zepto_02,,,,Splitting,2026-03-05,Warn,CONSUMING TOBACCO
+765,S. JUBER,MSE0366,MSE,BLR_Zepto_02,,,,Splitting,2026-06-05,Warn,CONSUMING TOBACCO
+766,DHONI,GNH0641,GNH,BLR_Zepto_02,,,,Splitting,2026-06-05,Warn,CONSUMING TOBACCO
+767,BERIMONG,KRA0052,KRA,BLR_Zepto_02,,,,Splitting,2026-06-05,Warn,CONSUMING TOBACCO
+768,RUBOL,EN305,ENLEVEN,BLR_Zepto_02,,,,Splitting,2026-12-05,Warn,CONSUMING TOBACCO
+769,KISHOR KUMAR,MS0346,MSE,BLR_Zepto_02,,,,Splitting,13-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+770,JUREL EKKA,GNH1092,GNH,BLR_Zepto_02,,,,Splitting,13-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+771,MITHUN KUMAR,GNH1077,GNH,BLR_Zepto_02,,,,Splitting,14-05-2026,Warn,CONSUMING TOBACCO
+772,SONU MINJ,UCS0154,UCS,BLR_Zepto_02,,,,Splitting,14-05-2026,Warn,CONSUMING TOBACCO
+773,RAJESH TUDU,HBR1272,HBR,BLR_Zepto_02,,,,Splitting,14-05-2026,Warn,SMOKING IN WASHROOM
+774,ABHISHEK,KMS2066,KMS,BLR_Zepto_02,,,,Splitting,14-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+775,YUVRAJ,SRF0174,SRF,BLR_Zepto_02,,,,Splitting,16-05-2026,Warn,CONSUMING TOBACCO
+776,SALIM UDDIN,PSL0206,PSL,BLR_Zepto_02,,,,Splitting,17-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+777,BIKII DOLEY,PSL0139,PSL,BLR_Zepto_02,,,,Splitting,19-05-2026,Warn,CONSUMING TOBACCO
+778,MD INAMUL,UCS0234,UCS,BLR_Zepto_02,,,,Splitting,20-05-2026,Warn,CONSUMING TOBACCO
+779,SK SAHNAWAZ,NSC0670,NSC,BLR_Zepto_02,,,,Splitting,20-05-2026,Warn,CONSUMING TOBACCO
+780,NEHA SAH,ANC0216,ANC,BLR_Zepto_02,,,,Splitting,21-05-2026,Warn,CONSUMING TOBACCO
+781,SANTHYA,KMS1016,KMS,BLR_Zepto_02,,,,Splitting,21-05-2026,Warn,CONSUMING TOBACCO
+782,SUMIT KUMAR,CLS2506,CLS,BLR_Zepto_02,,,,Splitting,22-05-2026,Warn,CONSUMING TOBACCO
+783,RAKESH,KMS1080,KMS,BLR_Zepto_02,,,,Splitting,22-05-2026,Warn,CONSUMING TOBACCO
+784,DHONI,GNH0846,GNH,BLR_Zepto_02,,,,Splitting,24-05-2026,Warn,CONSUMING TOBACCO
+785,SANJAY PRASAD,CLS2876,CLS,BLR_Zepto_02,,,,Splitting,25-05-2026,Warn,CONSUMING TOBACCO
+786,RAJENDRA ORAON,KMS1930,KMS,BLR_Zepto_02,,,,Splitting,26-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+787,JITENDRA PUJARI,PSL0204,PSL,BLR_Zepto_02,,,,Splitting,26-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+788,SHAIK JAREENS,EN232,ENLEVEN,BLR_Zepto_02,,,,Splitting,27-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+789,VIVEK KUMAR,YFS0129,YFS,BLR_Zepto_02,,,,Splitting,27-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+790,BAPAN HEMBRAM,KMS1053,KMS,BLR_Zepto_02,,,,Splitting,28-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+791,SUBEDAR,KRA0126,KRA,BLR_Zepto_02,,,,Splitting,28-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+792,AMAN KUMAR,ROZ0083,ROBUST,BLR_Zepto_02,,,,Splitting,28-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+793,RAJESH KUMAR,KMS1855,KMS,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+794,SK SAHNAWAZ,NSC0670,NSC,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+795,SHUBHRANT DAS,MSE0388,MSE,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+796,SHEN WANG,KRA0132,KRA,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+797,BINGI KRISHNA REDDY,KMS1695,KMS,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+798,AKSHAY KUMAR,UCS0126,UCS,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+799,DEVARAJA,YFS0070,YFS,BLR_Zepto_02,,,,Splitting,29-05-2026,Warn,COUGHT TOBACCO AT WASHROOM
+800,RANJEET KUMAR,KMS2128,KMS,BLR_Zepto_02,,,,Splitting,31-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+801,MANOJ KUMAR,KRA0082,KRA,BLR_Zepto_02,,,,Splitting,31-05-2026,Warn,COUGHT TOBACCO AT ENTRY POINT
+802,BRAJESH KUMAR,MSE0345,MSE,BLR_Zepto_02,,,,Others,25-05-2026,Warn,RACK DAMAGE
+803,ARVIND KUMAR,KMS2037,KMS,BLR_Zepto_02,,,,Others,2026-11-05,Warn,FOUND DUREX CONDOM DURING FRISKING AT WASHROOM
+804,SHAHIL ANSARI,IRT0078,HAND ON,BLR_Zepto_02,,,,Others,2026-02-05,Warn,CAPTURING PHOTO INSIDE THE PREMISES
+805,SHAHIL SAIF,IRT0090,HAND ON,BLR_Zepto_02,,,,Others,2026-02-05,Warn,CAPTURING PHOTO INSIDE THE PREMISES
+806,TOFFIK KHAN,IRT0047,WATRANA,BLR_Zepto_02,,,,Others,2026-02-05,Warn,CAPTURING PHOTO INSIDE THE PREMISES
+807,SHANKAR KUMAR,NSC0810,NSC,BLR_Zepto_02,,,,Others,21-04-2026,Warn,TRY TO STEAL COMPANY INVENTORY PEN CAUGHT BY SECURTY AT ENTERANCE
+808,Abdul Khalid,NX01965,RN,BWD_Amazon,,,,Munching,2026-05-03,Blacklisted,MUNCHING
+809,Shamshad,,,BWD_Amazon,,,,Munching,2026-05-03,Blacklisted,MUNCHING
+810,Murlidar Baraf,NX01676,AVANT,BWD_Amazon,,,,Munching,2026-05-23,Blacklisted,MUNCHING
+811,vishal mukane,nx02815,,BWD_Amazon,,,,Munching,2026-05-24,Blacklisted,MUNCHING
+812,ali,nx03025,rn,BWD_Amazon,,,,Munching,2026-05-30,Blacklisted,MUNCHING
+813,SANGHARSH MORE,NX02543,AVANT,BWD_Amazon,,,,Theft,2026-05-21,Blacklisted,Theep
+814,Ruksana,nx02328,psn,BWD_Amazon,,,,Others,2026-05-05,Warn,damege
+815,Sayyad Shamim,NX01702,PSN,BWD_Amazon,,,,Others,2026-05-05,Warn,Damege
+816,mohamad shekh,nx02669,vegith,BWD_Amazon,,,,Others,2026-05-07,Warn,Damege
+817,Ruksana,nx02328,psn,BWD_Amazon,,,,Others,2026-05-08,Warn,damege
+818,Himandari Pradhan,NX01742,RN,BWD_Amazon,,,,Others,2026-05-14,Warn,Damege
+819,Ruksana,nx02328,psn,BWD_Amazon,,,,Others,2026-05-16,Warn,damege
+820,Rupa,nx01983,psn,BWD_Amazon,,,,Others,2026-05-24,Warn,damege
+821,vaibhav,nx02626,avant,BWD_Amazon,,,,Others,2026-05-29,Warn,damege
+822,neha,nx02614,,BWD_Amazon,,,,Others,2026-05-31,Warn,damege
+823,adil,nx03091,humaniq,BWD_Amazon,,,,Others,2026-05-31,Warn,damege
+824,SHAMSAD,NX02406,AVANT,BWD_Amazon,,,,Splitting,2026-03-05,Warn,TABACCO
+825,AKSHAY,NX02649,PSN,BWD_Amazon,,,,Splitting,2026-07-05,Warn,TABACCO
+826,Taukir Ahmed,NX02209,RN,BWD_Amazon,,,,Splitting,2026-08-05,Warn,TABACCO
+827,milind,nx02280,humaniq,BWD_Amazon,,,,Splitting,2026-05-12,Warn,TABACCO
+828,Ananta Bondre,NX02308,AVANT,BWD_Amazon,,,,Splitting,2026-05-15,Warn,TABACCO
+829,Shridhar Chougale,NX00822,PSN,BWD_Amazon,,,,Splitting,2026-05-20,Warn,TABACCO
+830,mohd mofid,nx02801,avant,BWD_Amazon,,,,Splitting,2026-05-26,Warn,TABACCO
+831,CHHOTU KUMAR,NSC0777,NSC,BLR_Zepto_01,,,,Splitting,2026-05-01,Warn,FOUND TOBACO
+832,RANUJ PATIR,CLS1310,CLS,BLR_Zepto_01,,,,Splitting,2026-05-01,Warn,FOUND TOBACO
+833,MD CHHOTU SHAIKH,IRT0122,IRT,BLR_Zepto_01,,,,Splitting,2026-05-01,Warn,FOUND TOBACO
+834,MANOJ,CLS1893,CLS,BLR_Zepto_01,,,,Theft,2026-05-01,Blacklisted,ATTEMPTED THEFT
+835,MANISH KUMAR ,CLS2329,CLS,BLR_Zepto_01,,,,Theft,2026-05-01,Blacklisted,ATTEMPTED THEFT
+836,RUKAL CHAKHMA,CLS2006,CLS,BLR_Zepto_01,,,,Munching,2026-05-02,Blacklisted,FOUND MUNCHING
+837,NARAYAN MUNDA,KMS0777,CLS,BLR_Zepto_01,,,,Munching,2026-05-02,Blacklisted,FOUND MUNCHING
+838,MARARAJA KUMAR,CLS1033,CLS,BLR_Zepto_01,,,,Munching,2026-05-02,Blacklisted,FOUND MUNCHING
+839,NITESH SINGH,CLS1678,CLS,BLR_Zepto_01,,,,Splitting,2026-05-04,Warn,FOUND TOBACO
+840,BABLU KUMAR,CLS1803,CLS,BLR_Zepto_01,,,,Munching,2026-05-04,Blacklisted,FOUND MUNCHING
+841,MANOJ CHANDRA,CLS0845,CLS,BLR_Zepto_01,,,,Munching,2026-05-04,Blacklisted,FOUND MUNCHING
+842,JAY PRAKASH ROUT,KMS1867,KMS,BLR_Zepto_01,,,,Munching,2026-05-04,Blacklisted,FOUND MUNCHING
+843,RAKESH SUNAR,ANC0122,ANC,BLR_Zepto_01,,,,Munching,2026-05-05,Blacklisted,FOUND MUNCHING
+844,PILMON PEGU,YFS0288,YFS,BLR_Zepto_01,,,,Splitting,2026-05-05,Warn,FOUND TOBACO
+845,DEVENDRA,GNH1123,GNH,BLR_Zepto_01,,,,Others,2026-05-05,Warn, MATERIAL DAMAGED
+846,DEVENDRA,GNH1123,GNH,BLR_Zepto_01,,,,Theft,2026-05-05,Blacklisted,FOUND THEFT
+847,GOURANGA DAS,HBR1212,HBR,BLR_Zepto_01,,,,Splitting,2026-05-05,Warn,FOUND GUTKHA
+848,SURAJ LOHAR,CLS0843,CLS,BLR_Zepto_01,,,,Munching,2026-05-06,Blacklisted,FOUND MUNCHING
+849,EMILIUS DUNGDUNG,KMS1861,KMS,BLR_Zepto_01,,,,Munching,2026-05-07,Blacklisted,FOUND MUNCHING
+850,RAJ KUMAR,GNH0839,GNH,BLR_Zepto_01,,,,Munching,2026-05-07,Blacklisted,FOUND MUNCHING
+851,VIRENDRA JAISWAL,KMS1912,KMS,BLR_Zepto_01,,,,Splitting,2026-05-08,Warn,FOUND TOBACO
+852,HARHIT MISHRA,CLS1935,CLS,BLR_Zepto_01,,,,Splitting,2026-05-09,Warn,FOUND TOBACO
+853,DEBA PRADHAN,YFS0290,YFS,BLR_Zepto_01,,,,Splitting,2026-05-13,Warn,FOUND TOBACO
+854,RWEKASEN KNO,CLS2078,CLS,BLR_Zepto_01,,,,Splitting,2026-05-14,Warn,FOUND TOBACO
+855,RAJANI KOACH,NSC0627,NSC,BLR_Zepto_01,,,,Splitting,2026-05-14,Warn,FOUND TOBACO
+856,NIRANJAN MORYA,IRT0122,IRT,BLR_Zepto_01,,,,Munching,2026-05-17,Blacklisted,FOUND MUNCHING
+857,SUDARSHAN KUMAR,GNH0979,GNH,BLR_Zepto_01,,,,Munching,2026-05-17,Blacklisted,FOUND MUNCHING
+858,SHIVA BISWAKARMA,GNH1048,GNH,BLR_Zepto_01,,,,Splitting,2026-05-18,Warn,FOUND TOBACO
+859,JAYANTA SWARGIARY,KMS1908,KMS,BLR_Zepto_01,,,,Splitting,2026-05-18,Warn,FOUND TOBACO
+860,JAYANTA SWARGIARY,KMS1908,KMS,BLR_Zepto_01,,,,Others,2026-05-18,Warn, USED COMPANY PRODUCT
+861,HUROBHI GOGOI,HBR0093,HBR,BLR_Zepto_01,,,,Splitting,2026-05-19,Warn,FOUND GUTKHA
+862,SAGAR,HBR0645,HBR,BLR_Zepto_01,,,,Splitting,2026-05-19,Warn,FOUND GUTKHA
+863,BHULA YADAV,YFS0236,YFS,BLR_Zepto_01,,,,Splitting,2026-05-19,Warn,FOUND TOBACO
+864,JANARDHAN RAM,HBR1046,HBR,BLR_Zepto_01,,,,Splitting,2026-05-19,Warn,FOUND TOBACO
+865,VISHAL,EN198,ENLIVEN,BLR_Zepto_01,,,,Theft,2026-05-19,Blacklisted,FOUND THEFT
+866,CHIKKP DHAN,KMS1964,KMS,BLR_Zepto_01,,,,Splitting,2026-05-19,Warn,FOUND TOBACO
+867,NITISH KUMAR,HBR1072,HBR,BLR_Zepto_01,,,,Others,2026-05-20,Warn,FOUND MISTAKE
+868,HANSRAJ MEHTA,NSC0520,NSC,BLR_Zepto_01,,,,Munching,2026-05-20,Blacklisted,FOUND MUNCHING
+869,MUKESH MRIDHA,KMS1799,KMS,BLR_Zepto_01,,,,Splitting,2026-05-20,Warn,FOUND TOBACO
+870,LALLE MASHAQ,HBR1292,HBR,BLR_Zepto_01,,,,Munching,2026-05-20,Blacklisted,FOUND MUNCHING
+871,DEDEKULA MD RASOOL,CLS2683,CLS,BLR_Zepto_01,,,,Munching,2026-05-21,Blacklisted,FOUND MUNCHING
+872,IRFAN HUSSAIN,CLS2473,CLS,BLR_Zepto_01,,,,Splitting,2026-05-22,Warn,FOUND TOBACO
+873,SUDARSHAN LENKA,HBR1100,HBR,BLR_Zepto_01,,,,Munching,2026-05-22,Blacklisted,FOUND MUNCHING
+874,MALAY MALLA,CLS2620,CLS,BLR_Zepto_01,,,,Munching,2026-05-22,Blacklisted,FOUND MUNCHING
+875,ANAND KUMAR,CLS1218,CLS,BLR_Zepto_01,,,,Munching,2026-05-22,Blacklisted,FOUND MUNCHING
+876,AMIT MAHARANA,KMS1779,KMS,BLR_Zepto_01,,,,Munching,2026-05-22,Blacklisted,FOUND MUNCHING
+877,AMAR KUMAR JHA,PSL0219,PSL,BLR_Zepto_01,,,,Munching,2026-05-22,Blacklisted,FOUND MUNCHING
+878,MAUSHAM KUMAR,KMS1664,KMS,BLR_Zepto_01,,,,Munching,2026-05-23,Blacklisted,FOUND MUNCHING
+879,MD SAMIM IKBAL,KMS1468,KMS,BLR_Zepto_01,,,,Splitting,2026-05-23,Warn,FOUND GUTKHA
+880,SRINIVAS ,KMS1778,KMS,BLR_Zepto_01,,,,Splitting,2026-05-24,Warn,FOUND TOBACO
+881,MANOHARA DIN,HBR0963,HBR,BLR_Zepto_01,,,,Splitting,2026-05-25,Warn,FOUND TOBACO
+882,PRASHANTO ,CLS2709,CLS,BLR_Zepto_01,,,,Munching,2026-05-26,Blacklisted,FOUND MUNCHING
+883,NITISH KUMAR,NSC0808,NSC,BLR_Zepto_01,,,,Munching,2026-05-27,Blacklisted,FOUND MUNCHING
+884,KARAN RAJWAR,YFS0247,YFS,BLR_Zepto_01,,,,Splitting,2026-05-30,Warn,FOUND TOBACO
+885,DIBENDU BISWAS,PSL0062,PSL,BLR_Zepto_01,,,,Others,2026-05-31,Warn,USED COMPANY PRODUCT
+886,ABDUL MANNAN,ACLS0107,ACLS,BLR_Amazon,,,,Theft,2026-05-04,Blacklisted,Stolen  Puma shoes has been recovered
+887,Aman Kushwaha,ACLS1012,ACLS,BLR_Amazon,,,,Theft,2026-05-12,Blacklisted,Stolen perfume has been recovered
+888,Parshanta Sangama,ACLS0983,ACLS,BLR_Amazon,,,,Munching,2026-05-02,Blacklisted,The guard caught hin while paterolling
+889,Dharamaraj,HBA0757,HBR,BLR_Amazon,,,,Munching,2026-05-04,Blacklisted,Caught at CCTV during munching 
+890,Mahantesh,ACLS0982,ACLS,BLR_Amazon,,,,Munching,2026-05-04,Blacklisted,Caught at CCTV during munching 
+891,Chhotu kumar,GNA0172,GNA,BLR_Amazon,,,,Munching,2026-05-11,Blacklisted,Caught whil being checked at the main entrance
+892,Janash,GNA0167,GNA,BLR_Amazon,,,,Munching,2026-05-11,Blacklisted,Caught at CCTV during munching 
+893,Anuj shrama,HBA0706,HBR,BLR_Amazon,,,,Munching,2026-05-11,Blacklisted,The guard caught hin while paterolling
+894,Arju Ahmed,ACLS1009,ACLS,BLR_Amazon,,,,Munching,2026-05-17,Blacklisted,Caught at CCTV during munching 
+895,Alam Ahmed,ACLS1010,ACLS,BLR_Amazon,,,,Munching,2026-05-17,Blacklisted,Caught at CCTV during munching 
+896,Abdul khalid,ACLS0644,ACLS,BLR_Amazon,,,,Munching,2026-05-21,Blacklisted,The guard caught hin while paterolling
+897,Morful shekh,GNA0154,GNA,BLR_Amazon,,,,Munching,2026-05-21,Blacklisted,Caught at CCTV during munching 
+898,Retesh kumar,KVB0701,KVB,BLR_Amazon,,,,Munching,2026-05-21,Blacklisted,Caught at CCTV during munching 
+899,Prom kumar,HBA0840,HBR,BLR_Amazon,,,,Munching,2026-05-24,Blacklisted,The guard caught hin while paterolling
+900,Annasmia,HBA0765,HBR,BLR_Amazon,,,,Munching,2026-05-26,Blacklisted,Caught at CCTV during munching 
+901,Akash,AMSE0273,AMSE,BLR_Amazon,,,,Munching,2026-05-26,Blacklisted,The guard caught hin while paterolling
+902,C.bala ji,AVN0732,AVN,BLR_Amazon,,,,Munching,2026-05-28,Blacklisted,Caught at CCTV during munching 
+903,Lovely,ACLS0480,ACLS,BLR_Amazon,,,,Munching,2026-05-27,Blacklisted,Nail polish
+904,Manish kumar,ACLS0897,ACLS,BLR_Amazon,,,,Splitting,2026-05-06,Warn,Our security caught tobacco in their pockets and mouths during checking
+905,Chaya mongora,KVB0731,KVB,BLR_Amazon,,,,Splitting,2026-05-09,Warn,Our security caught tobacco in their pockets and mouths during checking
+906,Ranjeet kumar,ACLS1081,ACLS,BLR_Amazon,,,,Splitting,2026-05-10,Warn,The restroom guard was caught checking in during working hours.
+907,Mukesh pradhan,ACLS1037,ACLS,BLR_Amazon,,,,Splitting,2026-05-11,Warn,Caught During main entrance frisking
+908,Muno,KMS0233,KMS,BLR_Amazon,,,,Splitting,2026-05-13,Warn,Our security caught tobacco in their pockets and moughts during checking
+909,Ramzan jhakh,ANC0133,ANC,BLR_Amazon,,,,Splitting,2026-05-19,Warn,Caught During main entrance frisking
+910,MD.miraj,HBA0708,HBR,BLR_Amazon,,,,Splitting,2026-05-21,Warn,The restroom guard was caught checking in during working hours.
+911,Abhishek G,ROB0109,ROB,BLR_Amazon,,,,Splitting,2026-05-24,Warn,Our security caught tobacco in their pockets and moughts during checking
+912,Raju Raj,HBA0898,HBR,BLR_Amazon,,,,Splitting,2026-05-25,Warn,Caught During main entrance frisking
+913,Mukesh Draon,KVB0810,KVB,BLR_Amazon,,,,Splitting,2026-05-29,Warn,Caught During main entrance frisking
+914,Amem kumar,ACLS0795,ACLS,BLR_Amazon,,,,Splitting,2026-05-29,Warn,Our security caught tobacco in their pockets and moughts during checking
+915,Anand,BDL0656,SMS,BDL_Amazon,,,,Munching,2026-04-02,Blacklisted,Munching
+916,ANUJ,BDL 0684,Top shield,BDL_Amazon,,,,Munching,2026-05-04,Blacklisted,Munching
+917,Shubham,BDL0538,Avant,BDL_Amazon,,,,Munching,2026-05-06,Blacklisted,Munching
+918,RISHANT,BDL0565,Ganges,BDL_Amazon,,,,Munching,2026-05-05,Blacklisted,Munching
+919,VIPIN,BDL0800,Gengas,BDL_Amazon,,,,Munching,2026-05-01,Blacklisted,Munching
+920,SHEKHAR,BDL0767,Avant,BDL_Amazon,,,,Munching,2029-05-10,Blacklisted,Munching
+921,AJAY,BDL0729,Avant,BDL_Amazon,,,,Munching,2026-05-08,Blacklisted,Munching
+922,SHUBHAM,BDL0538,Avant,BDL_Amazon,,,,Munching,2026-05-06,Blacklisted,Munching
+923,Manish,BDL0240,Gangas,BDL_Amazon,,,,Munching,2029-05-07,Blacklisted,Munching
+924,Yogesh,BDL0613,Gogarra,BDL_Amazon,,,,Munching,2026-05-16,Blacklisted,Munching
+925,Bhuvan,BDL1918,Gogarra,BDL_Amazon,,,,Munching,2026-05-16,Blacklisted,Munching
+926,SACHIN,BDL1550,Gangas,BDL_Amazon,,,,Munching,2026-05-22,Blacklisted,Munching
+927,DINESH,BDL0352,Goggara,BDL_Amazon,,,,Munching,2026-05-22,Blacklisted,Munching
+928,DAKSH,BDL0940,Ganges,BDL_Amazon,,,,Munching,2026-05-22,Blacklisted,Munching
+929,SACHIN,BDL0505,Avant,BDL_Amazon,,,,Munching,2026-05-23,Blacklisted,Munching
+930,Shiva,BDL0675,Goggara,BDL_Amazon,,,,Munching,2026-05-27,Blacklisted,Munching
+931,VIPIN,BDL0800,Gengas Globel,BDL_Amazon,,,,Theft,2026-01-01,Blacklisted,           Associate found involved in theft.
+932,AKSHAY,BDL1463,Gengas Globel,BDL_Amazon,,,,Theft,2026-05-13,Blacklisted,           Associate found involved in theft.
+933,PIYUSH,BDL1676,Gengas Globel,BDL_Amazon,,,,Theft,2026-05-17,Blacklisted,           Associate found involved in theft.
+934,Hardik,BDL1831,Gengas Globel,BDL_Amazon,,,,Theft,2026-05-28,Blacklisted,           Associate found involved in theft.
+935,Shyam ji ,BDL0309,Gengas Globel,BDL_Amazon,,,,Theft,2026-05-28,Blacklisted,           Associate found involved in theft.
+936,Deepak,BDL1058,Gengas Globel,BDL_Amazon,,,,Theft,2026-05-28,Blacklisted,           Associate found involved in theft.
+937,shivkumar,BDL0756,Avant,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+938,Vikash,BDL0602,SMS,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+939,Navin,BDL0725,SMS,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+940,SHIV KUMAR,BDL0602,Gogarra,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+941,VIKASH,BDL0756,Gogarra,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+942,PRINCE,BDL1432,Avant,BDL_Amazon,,,,Splitting,2026-05-07,Warn,Smoking item found 
+943,MOHIT,BDL0918,Gangas,BDL_Amazon,,,,Splitting,2026-05-12,Warn,Smoking item found 
+944,Rajesh,BDL1436,Gogarra,BDL_Amazon,,,,Splitting,2026-05-12,Warn,Smoking item found 
+945,SHIVAM,BDL1433,Gogarra,BDL_Amazon,,,,Splitting,2026-05-12,Warn,Smoking item found 
+946,PAWAN,BDL1193,SMS,BDL_Amazon,,,,Splitting,2026-05-08,Warn,Smoking item found 
+947,VIKASH,BDL0602,Gangas,BDL_Amazon,,,,Splitting,2026-05-08,Warn,Smoking item found 
+948,RAHUL,BDL1192,SMS,BDL_Amazon,,,,Splitting,2026-05-08,Warn,Smoking item found 
+949,Vikash,BDL0602,SMS,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+950,HITESH KUMAR,BDL0756,Avant,BDL_Amazon,,,,Splitting,2026-05-05,Warn,Smoking item found 
+951,YOGINDER,BDL1790,SMS,BDL_Amazon,,,,Splitting,2026-05-13,Warn,Smoking item found 
+952,Rohit,BDL0867,Gangas,BDL_Amazon,,,,Splitting,2026-05-14,Warn,Cansuming tabbaco
+953,Sandeep,BDL1080,Gangas,BDL_Amazon,,,,Splitting,2026-05-14,Warn,Smoking item found
+954,Manoj,BDL1481,Gangas,BDL_Amazon,,,,Splitting,2026-05-14,Warn,Smoking item found
+955,Ravi sankar,BDL1018,SMS,BDL_Amazon,,,,Splitting,2026-05-15,Warn,Smoking caused risk of damage to washroom property.
+956,Piyush,BDL1676,Gangas,BDL_Amazon,,,,Splitting,2026-05-14,Warn,Smoking caused risk of damage to washroom property.
+957,Arvind,BDL1812,SMS,BDL_Amazon,,,,Splitting,2026-05-17,Warn,Cansuming tabbaco
+958,PAWAN,BDL1193,SMS,BDL_Amazon,,,,Splitting,2026-05-19,Warn,Smoking item found
+959,Aman,BDL0237,Gangas,BDL_Amazon,,,,Splitting,2026-05-20,Warn,Smoking item found
+960,Kuldeep,BDL1200,Gangas,BDL_Amazon,,,,Splitting,2026-05-20,Warn,Smoking item found
+961,SUNIL,BDL1612,Gangas,BDL_Amazon,,,,Splitting,2026-05-20,Warn,Smoking item found
+962,Aakash,BDL1960,Gangas,BDL_Amazon,,,,Splitting,2026-05-22,Warn,Smoking item found
+963,Arvind,BDL1345,Avant,BDL_Amazon,,,,Splitting,2026-05-22,Warn,Smoking item found
+964,Sandeep,BDL1080,Gangas,BDL_Amazon,,,,Splitting,2026-05-23,Warn,Smoking item found IN  Washroom area
+965,Naman,BDL2023,Goggara,BDL_Amazon,,,,Splitting,2026-05-30,Warn,Smoking item found IN  Fresking Point 
