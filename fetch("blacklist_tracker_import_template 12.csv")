@@ -165,8 +165,8 @@ sr_no,associate_name,employee_id,vendor,location,pan_no,aadhaar_no,mobile_no,inc
 164,VANITH,CLS1389,CLS,BLR_Zepto_01,,,,Splitting,2025-11-04,Warn,Found tabacco 
 165,GANESH GIRI,HBR0391,HBR,BLR_Zepto_01,,,,Splitting,2025-11-12,Warn,Found tabacco 
 166,Surendra Kumar,CLS0873,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
-167,Suraj Kumar  ,CLS1048,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
-168,Dilkhush kumar  ,CLS1005,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
+167,Suraj Kumar Â ,CLS1048,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
+168,Dilkhush kumar Â ,CLS1005,CLS,BLR_Zepto_01,,,,Munching,2025-11-21,Blacklisted,Found munching
 169,Sumith kumar,CLS1484,CLS,BLR_Zepto_01,,,,Splitting,2025-11-24,Warn,Found tabacco while checking 
 170,JEHRUL ISLAM,HBR0205,HBR,BLR_Zepto_01,,,,Munching,2025-11-24,Blacklisted,Found munching
 171,SANUWAS,GNH0400,GOGRA,BLR_Zepto_01,,,,Munching,2025-11-24,Blacklisted,Found munching
@@ -422,7 +422,7 @@ sr_no,associate_name,employee_id,vendor,location,pan_no,aadhaar_no,mobile_no,inc
 421,RAHUL BHAVRI,NX01686,AVANT,Mum_Amazon,,,,Splitting,2026-02-07,Warn,FOUND TABOCCO
 422,JAYPRAKASH,NX00833,R.N,Mum_Amazon,,,,Splitting,2026-02-08,Warn,FOUND TABOCCO
 423,ASHOK KHADE,NX01261,PSN,Mum_Amazon,,,,Splitting,2026-02-08,Warn,FOUND TABOCCO
-424,TABISH  AHMAD,NX01860,PSN,Mum_Amazon,,,,Splitting,2026-02-17,Warn,FOUND TABOCCO
+424,TABISHÂ  AHMAD,NX01860,PSN,Mum_Amazon,,,,Splitting,2026-02-17,Warn,FOUND TABOCCO
 425,KETAN JADHAV,NX01540,AVANT,Mum_Amazon,,,,Splitting,2026-02-18,Warn,FOUND TABOCCO
 426,ANKIT KANOJIA,NX00884,HUMANIQE,Mum_Amazon,,,,Splitting,2026-02-18,Warn,FOUND TABOCCO
 427,SAHRUKH KHAN,NX00340,R.N,Mum_Amazon,,,,Splitting,2026-02-21,Warn,FOUND TABOCCO
@@ -552,7 +552,7 @@ sr_no,associate_name,employee_id,vendor,location,pan_no,aadhaar_no,mobile_no,inc
 551,ATUL AYUSH,NX01365,ATHARVA,BWD_Amazon,,,,Splitting,2026-03-27,Warn,Tobacco 
 552,KUNAL JADHAV,NX02132,AVANT,BWD_Amazon,,,,Splitting,2026-03-28,Warn,Tobacco 
 553,PRAVIN SING,NX02017,HUM,BWD_Amazon,,,,Others,2026-03-07,Warn,DAMEGE
-554,Aniket Kanojiya , NX00884,HUM,BWD_Amazon,,,,Others,2026-03-16,Warn,DAMEGE
+554,Aniket Kanojiya ,Â NX00884,HUM,BWD_Amazon,,,,Others,2026-03-16,Warn,DAMEGE
 555,ROHAN ADHIKARI,NX01530,R.N,BWD_Amazon,,,,Others,2026-03-16,Warn,DAMEGE
 556,SURAJ PATIL,NX01927,HUM,BWD_Amazon,,,,Splitting,2026-03-22,Warn,DAMEGE
 557,KUNAL ADHIKARI,NX00911,R.N,BWD_Amazon,,,,Splitting,2026-03-30,Warn,DAMEGE
@@ -758,7 +758,7 @@ CONCEALING THEM INSIDE HIS PURSE"
 754,MANAS KUMAR,CLS2183,CLS,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,"ATTEMPTED TO STEAL CIGGARATE PKT
 BY TAPING THEM TO THE LEG"
 755,KISHOR KUMAR,MSE0346,MSE,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,USE COMPANY INVENTORY PEN
-756,BOBIDUL ISLAM,UCS0129,UCS,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,PILGRIM SHAMPOO AND CASTING CRÈME
+756,BOBIDUL ISLAM,UCS0129,UCS,BLR_Zepto_02,,,,Theft,30-05-2026,Blacklisted,PILGRIM SHAMPOO AND CASTING CRÃˆME
 757,LAKSHMI,EN034,ENLIVEN,BLR_Zepto_02,,,,Theft,20-05-2026,Blacklisted,ATTEMPT TO STEEL RASGULLA
 758,NIKHIL,UCS0228,UCS,BLR_Zepto_02,,,,Splitting,29-04-2026,Warn,CONSUMING TOBACCO
 759,SURAJ KUMAR,KMS1763,KMS,BLR_Zepto_02,,,,Splitting,29-04-2026,Warn,CONSUMING TOBACCO
