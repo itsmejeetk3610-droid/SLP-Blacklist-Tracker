@@ -1,63 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>SLP Dashboard</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
+<div class="navbar">
 
-<nav class="navbar">
-    <a href="index.html">Dashboard</a>
-    <a href="employees.html">Employees</a>
-</nav>
+<h1>SLP - PAN INDIA BLACKLIST TRACKER</h1>
 
-<h1>Dashboard</h1>
+<a href="index.html">Dashboard</a>
 
-<div class="cards">
+<a href="search.html">Search Employee</a>
 
-    <div class="card">
-        <h2>965</h2>
-        <p>Total Employees</p>
-    </div>
+<a href="employees.html">Employees</a>
 
-    <div class="card">
-        <h2>375</h2>
-        <p>Blacklisted</p>
-    </div>
+<a href="import.html">Import Employees</a>
 
-    <div class="card">
-        <h2>0</h2>
-        <p>Terminated</p>
-    </div>
+<a href="pending.html">Pending Users</a>
 
-    <div class="card">
-        <h2>564</h2>
-        <p>Warned</p>
-    </div>
+<a href="users.html">Users</a>
+
+<a href="profile.html">Profile</a>
+
+<a href="#">Logout</a>
 
 </div>
-
-<div class="charts">
-
-    <div class="chart-box">
-        <h2>Status Distribution</h2>
-        <canvas id="pieChart"></canvas>
-    </div>
-
-    <div class="chart-box">
-        <h2>Incident Analysis</h2>
-        <canvas id="barChart"></canvas>
-    </div>
-
-    <div class="chart-box">
-        <h2>Monthly Trend</h2>
-        <canvas id="lineChart"></canvas>
-    </div>
-
-</div>
-
-<script src="script.js"></script>
-
-</body>
-</html>
