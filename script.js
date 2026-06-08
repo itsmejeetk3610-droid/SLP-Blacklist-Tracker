@@ -5,8 +5,8 @@ fetch("employees.csv")
     let rows = data.split("\n");
 
     let total = 0;
-    let blacklisted = 0;
     let warned = 0;
+    let blacklisted = 0;
     let terminated = 0;
 
     rows.slice(1).forEach(row => {
@@ -17,14 +17,14 @@ fetch("employees.csv")
 
         let cols = row.split(",");
 
-        let status = cols[5] ? cols[5].trim().toUpperCase() : "";
+        let status = cols[10] ? cols[10].trim().toUpperCase() : "";
+
+        if(status === "WARN"){
+            warned++;
+        }
 
         if(status === "BLACKLISTED"){
             blacklisted++;
-        }
-
-        if(status === "WARNED"){
-            warned++;
         }
 
         if(status === "TERMINATED"){
@@ -33,11 +33,10 @@ fetch("employees.csv")
 
     });
 
-    // Dashboard Cards
     document.getElementById("totalEmployees").innerText = total;
+    document.getElementById("warnedCount").innerText = warned;
     document.getElementById("blacklistedCount").innerText = blacklisted;
     document.getElementById("terminatedCount").innerText = terminated;
-    document.getElementById("warnedCount").innerText = warned;
 
     // Pie Chart
     new Chart(document.getElementById('pieChart'), {
@@ -45,7 +44,7 @@ fetch("employees.csv")
         data:{
             labels:['Warned','Blacklisted','Terminated'],
             datasets:[{
-                data:[warned, blacklisted, terminated],
+                data:[warned,blacklisted,terminated],
                 backgroundColor:['#3498db','#ff6384','#f39c12']
             }]
         }
@@ -58,7 +57,7 @@ fetch("employees.csv")
             labels:['Warned','Blacklisted','Terminated'],
             datasets:[{
                 label:'Cases',
-                data:[warned, blacklisted, terminated],
+                data:[warned,blacklisted,terminated],
                 backgroundColor:[
                     '#3498db',
                     '#ff6384',
@@ -75,15 +74,11 @@ fetch("employees.csv")
             labels:['Total','Warned','Blacklisted','Terminated'],
             datasets:[{
                 label:'Employees',
-                data:[total, warned, blacklisted, terminated],
+                data:[total,warned,blacklisted,terminated],
                 borderColor:'#2563eb',
-                fill:false,
-                tension:0.3
+                tension:0.4
             }]
         }
     });
 
-})
-.catch(error => {
-    console.log("CSV Error:", error);
 });
