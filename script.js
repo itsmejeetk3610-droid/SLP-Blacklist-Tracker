@@ -2,80 +2,56 @@ fetch("employees.csv")
 .then(response => response.text())
 .then(data => {
 
-```
-let rows = data.split("\n");
+    console.log("CSV Loaded");
 
-let total = 0;
-let warned = 0;
-let blacklisted = 0;
-let terminated = 0;
+    let rows = data.trim().split("\n");
 
-rows.slice(1).forEach(row => {
+    console.log("Rows Found:", rows.length);
 
-    if(row.trim() === "") return;
+    let total = 0;
+    let warned = 0;
+    let blacklisted = 0;
+    let terminated = 0;
 
-    total++;
+    rows.slice(1).forEach(row => {
 
-    // TAB separated CSV
-    let cols = row.split("\t");
+        if(!row.trim()) return;
 
-    let status = cols[10] ? cols[10].trim().toUpperCase() : "";
+        let cols = row.split("\t");
 
-    if(status.includes("WARN")){
-        warned++;
-    }
+        console.log(cols);
 
-    if(status.includes("BLACKLIST")){
-        blacklisted++;
-    }
+        total++;
 
-    if(status.includes("TERMINATED")){
-        terminated++;
-    }
+        let status = cols[10]
+            ? cols[10].trim().toUpperCase()
+            : "";
 
-});
+        if(status === "WARN"){
+            warned++;
+        }
 
-document.getElementById("totalEmployees").innerText = total;
-document.getElementById("warnedCount").innerText = warned;
-document.getElementById("blacklistedCount").innerText = blacklisted;
-document.getElementById("terminatedCount").innerText = terminated;
+        if(status === "BLACKLISTED"){
+            blacklisted++;
+        }
 
-new Chart(document.getElementById('pieChart'), {
-    type:'pie',
-    data:{
-        labels:['Warned','Blacklisted','Terminated'],
-        datasets:[{
-            data:[warned, blacklisted, terminated],
-            backgroundColor:['#3498db','#ff6384','#f39c12']
-        }]
-    }
-});
+        if(status === "TERMINATED"){
+            terminated++;
+        }
 
-new Chart(document.getElementById('barChart'), {
-    type:'bar',
-    data:{
-        labels:['Warned','Blacklisted','Terminated'],
-        datasets:[{
-            label:'Cases',
-            data:[warned, blacklisted, terminated]
-        }]
-    }
-});
+    });
 
-new Chart(document.getElementById('lineChart'), {
-    type:'line',
-    data:{
-        labels:['Total','Warned','Blacklisted','Terminated'],
-        datasets:[{
-            label:'Employees',
-            data:[total, warned, blacklisted, terminated],
-            borderColor:'#2563eb',
-            backgroundColor:'#2563eb',
-            tension:0.4
-        }]
-    }
-});
-```
+    console.log({
+        total,
+        warned,
+        blacklisted,
+        terminated
+    });
+
+    document.getElementById("totalEmployees").innerText = total;
+    document.getElementById("warnedCount").innerText = warned;
+    document.getElementById("blacklistedCount").innerText = blacklisted;
+    document.getElementById("terminatedCount").innerText = terminated;
 
 })
-.catch(error => console.log(error));
+.catch(error => console.error(error));
