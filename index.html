@@ -1,19 +1,84 @@
-<div class="card">
-    <h2 id="totalEmployees">0</h2>
-    <p>Total Employees</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="card">
-    <h2 id="blacklistedCount">0</h2>
-    <p>Blacklisted</p>
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SLP Dashboard</title>
 
-<div class="card">
-    <h2 id="terminatedCount">0</h2>
-    <p>Terminated</p>
-</div>
+    <link rel="stylesheet" href="style.css">
 
-<div class="card">
-    <h2 id="warnedCount">0</h2>
-    <p>Warned</p>
-</div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <div class="navbar">
+
+        <h1>SLP - PAN INDIA BLACKLIST TRACKER</h1>
+
+        <div class="nav-links">
+
+            <a href="index.html">Dashboard</a>
+            <a href="search.html">Search Employee</a>
+            <a href="employees.html">Employees</a>
+            <a href="import.html">Import Employees</a>
+            <a href="pending.html">Pending Users</a>
+            <a href="users.html">Users</a>
+            <a href="#">Logout</a>
+
+        </div>
+
+    </div>
+
+    <h1>Dashboard</h1>
+
+    <div class="cards">
+
+        <div class="card">
+            <h2 id="totalEmployees">0</h2>
+            <p>Total Employees</p>
+        </div>
+
+        <div class="card">
+            <h2 id="blacklistedCount">0</h2>
+            <p>Blacklisted</p>
+        </div>
+
+        <div class="card">
+            <h2 id="terminatedCount">0</h2>
+            <p>Terminated</p>
+        </div>
+
+        <div class="card">
+            <h2 id="warnedCount">0</h2>
+            <p>Warned</p>
+        </div>
+
+    </div>
+
+    <div class="charts">
+
+        <div class="chart-box">
+            <h2>Status Distribution</h2>
+            <canvas id="pieChart"></canvas>
+        </div>
+
+        <div class="chart-box">
+            <h2>Incident Type Analysis</h2>
+            <canvas id="barChart"></canvas>
+        </div>
+
+        <div class="chart-box">
+            <h2>Monthly Trend</h2>
+            <canvas id="lineChart"></canvas>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
