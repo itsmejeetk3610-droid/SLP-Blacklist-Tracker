@@ -19,15 +19,15 @@ fetch("employees.csv")
 
         let status = cols[10] ? cols[10].trim().toUpperCase() : "";
 
-        if(status === "WARN"){
+        if(status.includes("WARN")){
             warned++;
         }
 
-        if(status === "BLACKLISTED"){
+        if(status.includes("BLACKLIST")){
             blacklisted++;
         }
 
-        if(status === "TERMINATED"){
+        if(status.includes("TERMINATED")){
             terminated++;
         }
 
@@ -38,47 +38,40 @@ fetch("employees.csv")
     document.getElementById("blacklistedCount").innerText = blacklisted;
     document.getElementById("terminatedCount").innerText = terminated;
 
-    // Pie Chart
     new Chart(document.getElementById('pieChart'), {
         type:'pie',
         data:{
             labels:['Warned','Blacklisted','Terminated'],
             datasets:[{
-                data:[warned,blacklisted,terminated],
+                data:[warned, blacklisted, terminated],
                 backgroundColor:['#3498db','#ff6384','#f39c12']
             }]
         }
     });
 
-    // Bar Chart
     new Chart(document.getElementById('barChart'), {
         type:'bar',
         data:{
             labels:['Warned','Blacklisted','Terminated'],
             datasets:[{
                 label:'Cases',
-                data:[warned,blacklisted,terminated],
-                backgroundColor:[
-                    '#3498db',
-                    '#ff6384',
-                    '#f39c12'
-                ]
+                data:[warned, blacklisted, terminated]
             }]
         }
     });
 
-    // Line Chart
     new Chart(document.getElementById('lineChart'), {
         type:'line',
         data:{
             labels:['Total','Warned','Blacklisted','Terminated'],
             datasets:[{
                 label:'Employees',
-                data:[total,warned,blacklisted,terminated],
+                data:[total, warned, blacklisted, terminated],
                 borderColor:'#2563eb',
                 tension:0.4
             }]
         }
     });
 
-});
+})
+.catch(error => console.log(error));
